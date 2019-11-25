@@ -1,0 +1,66 @@
+version: "3.7"
+services:
+
+  app:
+    build:
+      context: ../
+      dockerfile: ./docker/DockerFile 
+    ports:
+      - "4335:4335"
+    environment: 
+      - ES_URL=http://elasticsearch:9200
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ../app/:/app/
+      - ../data:/data
+      - ./results:/results
+    entrypoint:
+      ["python3", "/app/ingest/ingest_data.py"]
+    networks:
+      - elk
+
+  elasticsearch:
+    build:
+      context: ../docker-elk/elasticsearch/
+      args:
+        ELK_VERSION: 7.4.1
+    volumes:
+      - type: bind
+        source: ../docker-elk/elasticsearch/config/elasticsearch.yml
+        target: /usr/share/elasticsearch/config/elasticsearch.yml
+        read_only: true
+      - type: volume
+        source: elasticsearch
+        target: /usr/share/elasticsearch/data
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+      ELASTIC_PASSWORD: changeme
+    networks:
+      - elk
+
+  kibana:
+    build:
+      context: ../docker-elk/kibana/
+      args:
+        ELK_VERSION: 7.4.1
+    volumes:
+      - type: bind
+        source: ../docker-elk/kibana/config/kibana.yml
+        target: /usr/share/kibana/config/kibana.yml
+        read_only: true
+    ports:
+      - "5601:5601"
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+
+networks:
+    elk:
+        driver: bridge
+
+volumes:
+  elasticsearch:
