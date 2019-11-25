@@ -27,7 +27,7 @@ def parse_interviews_to_json():
     data_path = "/data/txt_data"
 
     data_files = glob.glob(os.path.join(data_path, "*.txt"))
-    
+    print(data_files)
     # metadata we can ignore for now
     data_files.remove(os.path.join(data_path, "Interviewee_List.rtf.txt"))
     data_files.remove(os.path.join(data_path, "Pre-Patient_Interview_Template.rtf.txt"))
@@ -76,10 +76,10 @@ def parse_interviews_to_json():
                 line = line.replace("-", "")
                 if question:
                     if question in question_answer_dict:
-                        question_answer_dict[question].append(line)
+                        question_answer_dict[question].append(line.strip())
                         #raise Exception( "Anamoly: this user has already answered this question")
                     else:
-                        question_answer_dict[question] = [line]
+                        question_answer_dict[question] = [line.strip()]
                   
  
             elif not question_answer_dict["name"] and not question_answer_dict["age"]:
@@ -90,17 +90,17 @@ def parse_interviews_to_json():
                     if len(data) >= 2:
                         if data[1].isdigit():
                             question_answer_dict["name"] = data[0]
-                            question_answer_dict["age"] = data[1]
+                            question_answer_dict["age"] = int(data[1])
                         elif data[0] == "Tamra":
                             # special case
                             question_answer_dict["name"] = data[0]
-                            question_answer_dict["age"] = "withheld"
+                            question_answer_dict["age"] = -1
                         elif data[0] == "Anexis,":
                             question_answer_dict["name"] = data[0]
-                            question_answer_dict["age"] =  data[1]
+                            question_answer_dict["age"] =  int(data[1].strip(","))
                         elif data[0] == "Dr.":
                             question_answer_dict["name"] = "{0} {1}".format(data[0], data[1])
-                            question_answer_dict["age"] = "withheld"
+                            question_answer_dict["age"] = -1
                         else:
                             print("""WARNING: 
 skipping: {0}

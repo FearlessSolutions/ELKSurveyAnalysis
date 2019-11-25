@@ -12,12 +12,9 @@ services:
       - ../app/:/app/
       - ../data:/data
       - ./results:/results
-    #entrypoint:
-    #  - /app/etl/rtf_to_txt.sh
+ 
     networks:
       - elk
-
-
 
 networks:
   elk:
