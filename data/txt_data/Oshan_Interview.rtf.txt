@@ -1,0 +1,77 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Oshan 42
+### invalid font number 1
+Do you have a dermatologist?### invalid font number 0
+
+- No
+
+### invalid font number 1
+What do you do if you have a skin issue?### invalid font number 0
+
+- havent had one yet
+### invalid font number 1
+Do you have any moles or other skin conditions that have ever caused you concern?### invalid font number 0
+
+- no
+
+
+### invalid font number 1
+Have you ever known someone with, or heard of Melanoma?### invalid font number 0
+
+- no and no
+### invalid font number 1
+Where would you go to learn about Melanoma?### invalid font number 0
+
+- the internet, webmd
+### invalid font number 1
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?### invalid font number 0
+
+
+- not yet
+
+### invalid font number 1
+How do you currently find out about Melanoma?### invalid font number 0
+
+- internet, webmd
+### invalid font number 1
+What do you think would be helpful for you to become more aware?### invalid font number 0
+
+- a reputable website, like webmed
+
+### invalid font number 1
+How do you currently keep track of skin changes?### invalid font number 0
+
+- visually, or by sense
+
+### invalid font number 1
+What do you think would be beneficial for you to track changes?### invalid font number 0
+
+- looking and feeling
+
+### invalid font number 1
+How do you currently locate a dermatologist?### invalid font number 0
+
+- through my health insurance
+
+### invalid font number 1
+How would you prefer to locate a dermatologist?### invalid font number 0
+
+- through my health insurance
+
+### invalid font number 1
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?### invalid font number 0
+
+- yes
+
+### invalid font number 1
+If so, what is there relationship?### invalid font number 0
+
+- my general practictioner
+### invalid font number 1
+Is it okay to follow up with you?### invalid font number 0
+
+- yes, oshanjames@hotmail.com

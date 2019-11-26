@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Hattie 72
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- baking soda and coconut oil
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- no
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, Ive heard of it and know people. Most people I know are white.
+
+Where would you go to learn about Melanoma?
+- google it
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes, somewhat
+
+How do you currently find out about Melanoma?
+- I dont find out about it. But if I did look it up, google or wikipedia.
+
+Do you think an educational app would be helpful?
+- no because I dont have a need for it.
+
+How do you currently keep track of skin changes?
+- visual self-checks
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes if I had issues but not before. I have enough apps.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- no. because Id google it.
+
+How would you find this app?
+- n/a
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- daughter
+
+Is it okay to follow up with you?
+- no

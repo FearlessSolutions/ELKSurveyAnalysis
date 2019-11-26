@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+JoAnn 49
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- contact my primary care physician and/or get a referral to a dermatologist
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, 3 people, white women, 2 living, 1 died
+
+Where would you go to learn about Melanoma?
+- the internet, google, webmd
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes
+
+How do you currently find out about Melanoma?
+- internet, google, webmd
+
+Do you think an educational app would be helpful?
+- yes, because my son has a mole. If the app had a way to measure the mole, document the date and keep a record personal record of it would be valuable. And then to share with the dermatologist if necessary.
+
+How do you currently keep track of skin changes?
+- not for me. For my son, I keep track just by observation.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes because sometimes other methods of documentation get lost, or maybe with healthcare there is changes and loss of insurance so something that is more tangible would be helpful.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- no because I have my HMO for that.
+
+How would you find this app?
+- either through google or through apple app store
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+ - my son
+
+Is it okay to follow up with you?
+yes, joann.rojas562@gmail.com

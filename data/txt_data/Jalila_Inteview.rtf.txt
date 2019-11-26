@@ -1,0 +1,73 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Jalila 45### invalid font number 1
+
+### invalid font number 2
+Do you have a dermatologist?### invalid font number 1
+
+- no
+
+### invalid font number 2
+What do you do if you have a skin issue?### invalid font number 1
+
+- olive oil on it or castor oil
+### invalid font number 2
+Do you have any moles or other skin conditions that have ever caused you concern?### invalid font number 1
+
+- moles but they dont call me concern, some sunburn
+### invalid font number 2
+Have you ever known someone with, or heard of Melanoma?### invalid font number 1
+
+- yes I knew someone. Black man, late 20s, living in the .U.S. from the Antiqua
+### invalid font number 2
+Where would you go to learn about Melanoma?### invalid font number 1
+
+- I dont know, the internet, google it
+### invalid font number 2
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?### invalid font number 1
+
+- no
+
+### invalid font number 2
+How do you currently find out about Melanoma?### invalid font number 1
+
+- through my friend who had it.
+### invalid font number 2
+What do you think would be helpful for you to become more aware?### invalid font number 1
+
+- if the doctor could better educate me, maybe through skin care stores, like MAC and Sephora.
+### invalid font number 2
+How do you currently keep track of skin changes?### invalid font number 1
+
+- mirror, mental notes
+### invalid font number 2
+What do you think would be beneficial for you to track changes?### invalid font number 1
+
+- one source of information on how my skin would react to certain oils
+
+### invalid font number 2
+How do you currently locate a dermatologist?### invalid font number 1
+
+- I dont
+### invalid font number 2
+How would you prefer to locate a dermatologist?### invalid font number 1
+
+- through my healthcare provider
+
+### invalid font number 2
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?### invalid font number 1
+
+
+### invalid font number 2
+- yes
+If so, what is there relationship?### invalid font number 1
+
+
+- my husband
+### invalid font number 2
+Is it okay to follow up with you?### invalid font number 1
+
+- yes, jalila.smith@gmail.com (send Jalila information on Melanoma, all the articles and research)

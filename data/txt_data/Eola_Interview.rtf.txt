@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Eola 39
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- google how to take care of it
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- sure
+
+Have you ever known someone with, or heard of Melanoma?
+- heard of it. Its skin cancer. I think I met a classmate. White woman at 29 years old.
+
+Where would you go to learn about Melanoma?
+- online, american cancer association or something like that
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes, some, sun exposures
+
+How do you currently find out about Melanoma?
+- someone would bring it up to me, word of mouth
+
+Do you think an educational app would be helpful?
+- yes for accessibility, ease of use. But if its just another thing to add I might not do it. But if it communicated with apps I use, I would use it.
+
+How do you currently keep track of skin changes?
+- Primary Care Physician and Aesthetician. They assess my skin and provide recommendations. Im always buy skin care products and if it works for me Im an advocate.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes especially at my age. Im moving into different territory.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes in terms of being a black woman there is some uniqueness to my skin that is important in a dermatologist to me. I would actively seek that out.
+
+How would you find this app?
+- would have to pop up, or someone would have to tell me about it. I dont look for apps.s
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- sure
+
+If so, what is there relationship?
+- sister, friend, mom, children
+
+Is it okay to follow up with you?
+yes, eolal.dance@gmail.com

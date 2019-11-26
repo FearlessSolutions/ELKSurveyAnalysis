@@ -1,0 +1,53 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Shantella 48
+### invalid font number 1
+
+Do you have a dermatologist?
+- yes
+
+What do you do if you have a skin issue?
+- I call my dermatologist immediately
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, Ive known a few white friends in Lincoln NE who developed Melanoma from sun bathing or sun-tanning booths, they believe.
+
+Where would you go to learn about Melanoma?
+- Probably my dermatologist
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- a few
+
+How do you currently find out about Melanoma?
+- an online search first, I usually go to google scholar, and then also my dermatologist (Dr. Donald Frisbee)
+
+Do you think an educational app would be helpful?
+- yes as long as it works in conjunction with some other kind of outreach. A lot of folks pick up the information via the community first, and then they may pick up the app.
+
+How do you currently keep track of skin changes?
+- with moles and skin tags, if I feel discomfort, or see noticeable changes in the growth or texture, or any other discoloration, I check it about once a month. I then call my dermatologist, and hell ask me to take a photo and then he directs me from there.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- maybe, but I would go word of mouth before I trust an app. If its built from people who I would trust, my community, unlike, say yelp, which is people I dont know, I would be inclined to use it.
+
+How would you find this app?
+- probably through a search engine, like google chrome.
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my parent
+
+Is it okay to follow up with you?
+- yes, dr.shantella@gmail.com, theacumengroup.org
+Call Dr. Frisbee and mention Lee Ross (Dr. Shantella Shermans mom)
