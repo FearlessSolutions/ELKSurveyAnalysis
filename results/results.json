@@ -10,7 +10,7 @@
             "yes"
         ],
         "Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "no### invalid font number 0"
+            "no"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "i know about it but don\u0019t know anyone personally"
@@ -309,9 +309,6 @@
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes, especially if i have preexisting concern. i\u0019d probably constantly be on it to try to maintain my health"
-        ],
-        "Does black crack?": [
-            "na"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "no and no"
@@ -713,7 +710,7 @@
             "heard of it but i can\u0019t say i know what it is, or know anyone."
         ],
         "How do you currently find out about Melanoma?": [
-            "hearing about on tv or npr, word of mouth"
+            ""
         ],
         "How do you currently keep track of skin changes?": [
             "mirror. selfcheck."
@@ -1537,9 +1534,6 @@
         "name": "Juice"
     },
     {
-        "- yes because when I did have to go to a dermatologist there was only one I could find in my whole county that focuses on black skin. I\u0019d prefer to have options. Who wants one doctor that they have to go to?": [
-            "na"
-        ],
         "Do you have a dermatologist?": [
             "no"
         ],
@@ -1584,7 +1578,7 @@
             "nih pubmed website"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "na"
+            "yes because when i did have to go to a dermatologist there was only one i could find in my whole county that focuses on black skin. i\u0019d prefer to have options. who wants one doctor that they have to go to."
         ],
         "age": 39,
         "name": "Kandice"

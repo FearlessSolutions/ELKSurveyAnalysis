@@ -57,9 +57,6 @@ def parse_interviews_to_json():
     
             if not line:
                 continue
-
-            if len(line) < 4:
-                continue
             
             elif "###" in line:
                 continue
@@ -68,8 +65,9 @@ def parse_interviews_to_json():
                 if question:
                     if question not in question_answer_dict:
                         question_answer_dict[question] = ["na"]    
+                        raise Exception("Anamoly: question with no answer {}, {}, {}".format(data_file,line, question_answer_dict))
                     question = line
-                    #raise Exception("Anamoly: the key is already populated, something has gone wrong")
+                    
                 else:
                     question = line
             
