@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Thomas 74
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- I go to my regular doctor who would probably send me to a skin doctor
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, I just know of someone who had issue with it. They survived. A black man.s
+
+Where would you go to learn about Melanoma?
+- internet, or my family doctor.
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- not really
+
+How do you currently find out about Melanoma?
+- I go to my doctor
+
+Do you think an educational app would be helpful?
+- yes, I have a handful on my phone. I use apple health. I can ask my phone and it will give me a listing.
+
+How do you currently keep track of skin changes?
+- I dont keep track. If I see something I go to the doctor.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes, I currently use myChart out of Johns Hopkins Hospital
+
+How would you find this app?
+- through Johns Hopkins Hospital, I found that I have a condition that is considered a leukemia. Which is how I ended up with all this information. They monitor me every 3 months.
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my wife
+
+Is it okay to follow up with you?
+- yes, thomascharlese@gmail.com

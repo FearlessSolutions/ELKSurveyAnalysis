@@ -50,6 +50,7 @@ def parse_interviews_to_json():
 
         # here there be dragons: 
         for index, line in enumerate(file_lines):
+            formatted_line = line.lower().strip()
 
             # couldnt find a tool that would parse rtf properly.
             line = line.replace("### invalid font number 0","").replace("\n", "").replace("contains 0 fonts total","")
@@ -73,13 +74,13 @@ def parse_interviews_to_json():
                     question = line
             
             elif "-" in line:
-                line = line.replace("-", "")
+                formatted_line = formatted_line.replace("-", "").strip()
                 if question:
                     if question in question_answer_dict:
-                        question_answer_dict[question].append(line.strip())
+                        question_answer_dict[question].append(formatted_line)
                         #raise Exception( "Anamoly: this user has already answered this question")
                     else:
-                        question_answer_dict[question] = [line.strip()]
+                        question_answer_dict[question] = [formatted_line]
                   
  
             elif not question_answer_dict["name"] and not question_answer_dict["age"]:
@@ -107,15 +108,15 @@ skipping: {0}
 in: {1}\n""".format(line, data_file))
                     else:
                         if question:
-                            question_answer_dict[question] = [line]
+                            question_answer_dict[question] = [formatted_line]
                            
                         else:
-                            print("ignoring data: {0}".format(line) )
+                            print("ignoring data: {0}".format(formatted_line) )
 
             else:
 
                 if question:
-                    question_answer_dict[question] = [line]
+                    question_answer_dict[question] = [formatted_line]
                     
                 else:
                     print("""Warning anomoly detected

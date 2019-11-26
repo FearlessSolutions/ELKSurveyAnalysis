@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Jordan 20
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- Id ask someone like friends and nurses in school. Then Id go to the doctor if it was something unusual.
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- no
+
+Where would you go to learn about Melanoma?
+- health books
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- no dont know anything
+
+How do you currently find out about Melanoma?
+- google it or ask you, the surveyor
+
+Do you think an educational app would be helpful?
+- yes
+
+How do you currently keep track of skin changes?
+- I dont think Ive had any skin changes
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- not for me. I just go to the doctor every six months
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes
+
+How would you find this app?
+- at a doctors office
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my mom
+
+Is it okay to follow up with you?
+- sure, 13glaze.jordan@gmail.com

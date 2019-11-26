@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Amanda 33
+### invalid font number 1
+
+Do you have a dermatologist?
+- yes
+
+What do you do if you have a skin issue?
+- first try natural treatments, then if that doesnt work then go to the dermatologist
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- no
+
+Have you ever known someone with, or heard of Melanoma?
+- heard of it but dont think Ive known of anyone
+
+Where would you go to learn about Melanoma?
+- google
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- no
+
+How do you currently find out about Melanoma?
+- google
+
+Do you think an educational app would be helpful?
+- no because Im not interested in learning more about it. I wouldnt download it because I dont think its necessary.
+
+How do you currently keep track of skin changes?
+- mirror, self-check, note in head
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes because sometimes if you get a new mole youre supposed to let your doctor know. So I can take a picture of the mole with the app and them bring it up the next time I see the dermatologist.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes because it took me a while to find a black dermatologist. Not that other kinds of dermatologist wouldnt know black skin but I feel like a black dermatologist would be more likely to understand it and our sensitivities like not recommending cremes that lighten skin. It would also help to be able to find a second opinion. 
+
+How would you find this app?
+- apple app store and if there are a bunch of apps I go to google to read reviews and pick the best one for me
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my husband
+
+Is it okay to follow up with you?
+yes, amanda.clincy@gmail.com

@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Kandice 39
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- self diagnose on internet, google the symptoms, if I cant resolve it, then I go to my primary care physician
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- molely but havent caused me concern
+- another skin condition, yes
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, my former-coworkers mother, who was caucasian.
+
+Where would you go to learn about Melanoma?
+- NIH Pubmed website
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes, somewhat
+
+How do you currently find out about Melanoma?
+- I dont
+
+Do you think an educational app would be helpful for you, personally?
+- no Id prefer a website because I dont like apps
+
+How do you currently keep track of skin changes?
+- self-check
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- it could be but if I were to scan my skin Id be concerned about how safe it is, and also my privacy.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes because when I did have to go to a dermatologist there was only one I could find in my whole county that focuses on black skin. Id prefer to have options. Who wants one doctor that they have to go to?
+
+How would you find this app?
+- the google play store
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my mom
+
+Is it okay to follow up with you?
+- yes, kandicetucker@gmail.com

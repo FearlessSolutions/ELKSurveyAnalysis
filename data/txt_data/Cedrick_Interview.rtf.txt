@@ -1,0 +1,55 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Cedric 31
+
+Do you have a dermatologist?
+- yes but only been once
+
+What do you do if you have a skin issue?
+- usually I resort to home remedies
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- no
+
+Have you ever heard of Melanoma?
+- yes, only from commercials, nothing that I actively investigate
+
+Have you ever known someone with Melanoma?
+- no
+
+Where would you go to learn about Melanoma?
+- I got webmd, and another one that comes up from a basic google search. I think, healthline
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- no
+
+How do you currently find out about Melanoma?
+- Id go to webmd or other respectable scholarly sources like the NIH or other peer-reviewed articles.
+
+Do you think an educational app would be helpful?
+- I dont think an app would be as beneficial as youtube. People search youtube much more fervently. If someone goes on youtube and types, #melanoma is much easier for people to do than to go to an app store and download an app, something they probably wouldnt do.
+
+How do you currently keep track of skin changes?
+- just visuals, watch, if you see something out of the ordinary then I track it for about a week or so. Ill then go to the dermatologist as a follow-up consultation to confirm its gone or not.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- no, because when you get into apps you get into privacy concerns. So when youre talking about physical changes people are less inclined to use an app.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- no, because Im not an app person
+
+How would you find this app?
+- if I did search, then Id use the google play store
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- family and friends
+
+Is it okay to follow up with you?
+- yes, cedric.harriott@gmail.com
+

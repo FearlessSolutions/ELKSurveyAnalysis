@@ -1,0 +1,49 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Allison 19
+
+Do you have a dermatologist?
+- No
+
+What do you do if you have a skin issue?
+- usually look it up, google whatevers going on
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, people in my family have Melanoma. Melanoma runs mostly in the women in my family. Down my mothers line
+
+Where would you go to learn about Melanoma?
+- google
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- somewhat
+
+How do you currently find out about Melanoma?
+- google it
+
+Do you think an educational app would be helpful?
+- yes
+
+How do you currently keep track of skin changes?
+- just if I notice it
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes, thats what Ive been trying to look for
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+-  my friends and my family
+
+Would it be okay to follow up with you?
+- yes, allison1mcadoo2@gmail.com, Im interested in seeing what comes from this.
+

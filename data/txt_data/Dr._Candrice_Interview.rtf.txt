@@ -1,0 +1,89 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Dr. Candrice
+
+Where is your practice located?
+
+What percentage of your service is focused on melanoma patients?### invalid font number 1
+
+- for people who have it, about <5% of patients have it or a history
+- for time screening for it, 25%
+
+### invalid font number 0
+What percentage of those patients are black?### invalid font number 1
+
+- about 25%
+
+### invalid font number 0
+How do you acquire patients?
+### invalid font number 1
+1 - by internal referral through other doctors who work in the Temple Health Center
+2 - word of mouth
+3 - some find me through social media and blog
+4 - through insurance (but this a small percentage)
+
+### invalid font number 0
+Do these patients know about risk factors of melanoma? ### invalid font number 1
+
+yes and no
+caucasian patients understand the abcdes even if they dont know thats what its called
+black patients are not familiar with that at all
+
+### invalid font number 0
+How do black patients, to your knowledge, currently find out about melanoma?### invalid font number 1
+
+- through the media
+- many dont think it can happen to them
+- someone on tv like Jimmy Carter, or John McCain, etc&
+- usually not presented to them through their primary care physician
+- usually someone who is knowledge is 1 degree away from someone who has had melanoma
+
+### invalid font number 0
+What kinds of educational material do you provide this demographic?
+### invalid font number 1
+- patient education sheet, or brochure about moles but its hard because the brochures arent focused on black skin
+- Ive created education materials focused specifically on black skin for primary care physicians
+
+### invalid font number 0
+#How are patients currently treated  dependent upon their stage / type?### invalid font number 1
+
+
+### invalid font number 0
+Is there a standard way for your patients to track progress?
+### invalid font number 1
+- not a standard way but I take pictures of them in the office.
+- Sometimes they take photos of themselves in between visits.
+- there are also centers around the country that take photos of moles. I recommend this medical imaging for people who are molely and have a history of melanoma. This gives me high quality images. It allows me to monitor the abcdes.
+- I advise my patients to go to a plastic nevus clinic for actual people to look over the patient, manually. This along with the medical images helps greatly.
+- So yes, it can be on a basic level of me or my patient, all the way up to an advanced level where a center and professional can take pictures and review in person.
+
+### invalid font number 0
+How do patients currently keep track of skin changes? For example, I know someone whose grandmother is part of a clinical trial that asks her to keep a written diary.
+- it would be great to have some kind of app that reminded people on a monthly basis to take their acne medication, or monthly skin checks, etc&
+### invalid font number 1
+
+### invalid font number 0
+Are there any pain points in tracking your patients skin changes?### invalid font number 1
+
+- the resolution of the photos can be really bad. Their is a risk of them not being crisp. For crisp photos, its very cumbersome to load the patient photos into the medical record system.
+- and it takes time to get crisp photos. And time hurts the treatment of the disease. Theres not easy access to great photos that would work seamlessly in our workflow.
+- Especially with dermatoscope. Its hard to use the camera because you hold it with one hand, and the angles, positioning, etc make it challenging. And there is an iPad app that is synced to the emr data but its not connected to the dermatoscope.
+
+### invalid font number 0
+What would be helpful to you as a physician  in tracking your patients skin changes?### invalid font number 1
+
+- better integration of photography, seemlessly.
+- a way for patients to take pictures on their cell phone and then those photos be easily accessed by me digitally. Email and Firewalls make it extremely difficult for patients to transfer photos at the moment. There is Epic that allows patients to upload photos but Epic is extremely cumbersome. Also, when patients upload images you as a dermatologist tends to have to sift through 10 extra hours that you dont get paid for just to separate the signals from the noise.
+- patients usually use their medicine once for two-weeks after they see you and then again right before their next visit. It would be good to have an automated reminder that can help to remind the patient throughout the treatment process. If they here from me theyre more likely use their medicine.
+
+### invalid font number 0
+Have you ever heard of value-based care, or participate in any value-based care programs?### invalid font number 1
+
+- Ive heard of it. When I was in private-practice, we participated in a program provided by Medicare.
+- There are hospital based initiatives around heart-failure. To prevent all these hospitalizations for heart failure, there is now a protocol to deliver all of the patient medicine next to their bedside. If the doctor doesnt they get financially penalized.
+- fyi, value-based care is like no-child left behind
+
+Dr. Candrice has students who are itching to do research and write papers that is skin related. They want to be future dermatologists.

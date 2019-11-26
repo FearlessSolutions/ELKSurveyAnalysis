@@ -1,0 +1,79 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Dionny 45
+### invalid font number 1
+
+### invalid font number 2
+Do you have a dermatologist?
+- no### invalid font number 1
+
+
+### invalid font number 2
+What do you do if you have a skin issue?### invalid font number 1
+
+- Id discuss with my primary care physician
+
+### invalid font number 2
+Do you have any moles or other skin conditions that have ever caused you concern?### invalid font number 1
+
+- yes
+
+### invalid font number 2
+Have you ever known someone with, or heard of Melanoma?### invalid font number 1
+
+- heard of it but dont know anyone
+
+### invalid font number 2
+Where would you go to learn about Melanoma?### invalid font number 1
+
+- nih medpub, the internet mayo clinic website
+
+### invalid font number 2
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?### invalid font number 1
+
+- yes
+
+### invalid font number 2
+How do you currently find out about Melanoma?### invalid font number 1
+
+- resources online like medpub and a google search
+
+### invalid font number 2
+What do you think would be helpful for you to become more aware?### invalid font number 1
+
+- more discussions like this interview. Conversation and dialogue
+### invalid font number 2
+How do you currently keep track of skin changes?### invalid font number 1
+
+- self-check, activities of daily living (ADLs)
+### invalid font number 2
+What do you think would be beneficial for you to track changes?### invalid font number 1
+
+- maybe journaling it, writing it down, take a note
+
+### invalid font number 2
+How do you currently locate a dermatologist?### invalid font number 1
+
+- call my insurance company to see who they recommend
+
+### invalid font number 2
+How would you prefer to locate a dermatologist?### invalid font number 1
+
+- through my insurance
+
+### invalid font number 2
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?### invalid font number 1
+
+- yes
+
+### invalid font number 2
+If so, what is there relationship?### invalid font number 1
+
+- wife
+### invalid font number 2
+Is it okay to follow up with you?### invalid font number 1
+
+- yes, 718autos@gmail.com

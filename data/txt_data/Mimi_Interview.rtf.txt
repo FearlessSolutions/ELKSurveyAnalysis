@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Mimi 39
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- I go to my primary care physician.
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- Ive heard of it. dont know anyone.
+
+Where would you go to learn about Melanoma?
+- google
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes
+
+How do you currently find out about Melanoma?
+- google
+
+Do you think an educational app would be helpful?
+- no. its not an issue looking into
+
+How do you currently keep track of skin changes?
+- just look, checking myself out
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- no.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- probably no.
+
+How would you find this app?
+- google play store if I needed to
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- mom
+
+Is it okay to follow up with you?
+- no

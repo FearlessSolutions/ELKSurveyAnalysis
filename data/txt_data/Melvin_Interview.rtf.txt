@@ -1,0 +1,53 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Melvin 31
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- ask my wife to look at it
+- google it to see what can be done about it
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- no
+
+Have you ever known someone with, or heard of Melanoma?
+- I am aware of it but dont know anyone.
+
+Where would you go to learn about Melanoma?
+- Id google it, then make sure that the source I find is reputable.
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes, somewhat
+
+How do you currently find out about Melanoma?
+- google it, and make sure its a reputable source. Id also ask my wife.
+
+Do you think an educational app would be helpful?
+- yes, specifically leading into the summertime. Id have a lot of questions because I have kids. Maybe its linked with the weather for that day.
+
+How do you currently keep track of skin changes?
+- I dont. If something comes up Ill notice it.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes that would be helpful. There seems to be a lot of apps helpful for people who track things. Like if you were on vacation you could take pictures throughout it to see if you notice any differences.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes, Ive heard that melanin gives me more protection but Ive also heard that that is wrong so it would be nice to have a dermatologist that focuses on black people.
+
+How would you find this app?
+- word of mouth, or through a targeted ad
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my wife
+
+Is it okay to follow up with you?
+yes, mrrmgraham@gmail.com

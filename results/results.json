@@ -10,10 +10,10 @@
             "yes"
         ],
         "Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "no"
+            "no### invalid font number 0"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I know about it but don\u0019t know anyone personally"
+            "i know about it but don\u0019t know anyone personally"
         ],
         "How do you currently find out about Melanoma?": [
             "through the internet, webmd and medical friends"
@@ -31,7 +31,7 @@
             "my wife"
         ],
         "Is it okay to follow up with you?": [
-            "yes, dlwimes@aol.com (email Derek information about Melanoma)"
+            "yes, dlwimes@aol.com (email derek information about melanoma)"
         ],
         "What do you do if you have a skin issue?": [
             "my wife works for a hospital so her colleagues answer questions for me"
@@ -54,7 +54,7 @@
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "yes"
@@ -72,13 +72,13 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, people in my family have Melanoma. Melanoma runs mostly in the women in my family. Down my mother\u0019s line"
+            "yes, people in my family have melanoma. melanoma runs mostly in the women in my family. down my mother\u0019s line"
         ],
         "How do you currently find out about Melanoma?": [
             "google it"
         ],
         "How do you currently keep track of skin changes?": [
-            "just if I notice it"
+            "just if i notice it"
         ],
         "If so, what is there relationship?": [
             "my friends and my family"
@@ -90,23 +90,23 @@
             "google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes, that\u0019s what I\u0019ve been trying to look for"
+            "yes, that\u0019s what i\u0019ve been trying to look for"
         ],
         "Would it be okay to follow up with you?": [
-            "yes, allison1mcadoo2@gmail.com, I\u0019m interested in seeing what comes from this."
+            "yes, allison1mcadoo2@gmail.com, i\u0019m interested in seeing what comes from this."
         ],
         "age": 19,
         "name": "Allison"
     },
     {
         "Do you have a dermatologist?": [
-            "Yes"
+            "yes"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "no"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
-            "No"
+            "no"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
             "no"
@@ -124,16 +124,16 @@
             "through this survey"
         ],
         "How do you currently keep track of skin changes?": [
-            "doctor visits, with skin sometimes I self advise"
+            "doctor visits, with skin sometimes i self advise"
         ],
         "If so, what is there relationship?": [
-            "N/A"
+            "n/a"
         ],
         "Is it okay to follow up with you?": [
             "yes, berhanealpha@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I contact my personal dermatologist"
+            "i contact my personal dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "online, not too sure"
@@ -149,7 +149,7 @@
             "yes"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "yes, I get a mole check every year from my dermatologist"
+            "yes, i get a mole check every year from my dermatologist"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -164,16 +164,16 @@
             "yes it could be"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I\u0019ve heard of it"
+            "yes, i\u0019ve heard of it"
         ],
         "How do you currently find out about Melanoma?": [
             "my dermatologist through my annual visit, or google"
         ],
         "How do you currently keep track of skin changes?": [
-            "I just look at them and make mental notes then I discuss it with my dermatologist"
+            "i just look at them and make mental notes then i discuss it with my dermatologist"
         ],
         "How would you find this app?": [
-            "I\u0019d go to the google app store"
+            "i\u0019d go to the google app store"
         ],
         "If so, what is there relationship?": [
             "my wife"
@@ -207,13 +207,13 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I\u0019m not interested in learning more about it. I wouldn\u0019t download it because I don\u0019t think it\u0019s necessary."
+            "no because i\u0019m not interested in learning more about it. i wouldn\u0019t download it because i don\u0019t think it\u0019s necessary."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes because sometimes if you get a new mole you\u0019re supposed to let your doctor know. So I can take a picture of the mole with the app and them bring it up the next time I see the dermatologist."
+            "yes because sometimes if you get a new mole you\u0019re supposed to let your doctor know. so i can take a picture of the mole with the app and them bring it up the next time i see the dermatologist."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "heard of it but don\u0019t think I\u0019ve known of anyone"
+            "heard of it but don\u0019t think i\u0019ve known of anyone"
         ],
         "How do you currently find out about Melanoma?": [
             "google"
@@ -222,7 +222,7 @@
             "mirror, selfcheck, note in head"
         ],
         "How would you find this app?": [
-            "apple app store and if there are a bunch of apps I go to google to read reviews and pick the best one for me"
+            "apple app store and if there are a bunch of apps i go to google to read reviews and pick the best one for me"
         ],
         "If so, what is there relationship?": [
             "my husband"
@@ -237,7 +237,7 @@
             "google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes because it took me a while to find a black dermatologist. Not that other kinds of dermatologist wouldn\u0019t know black skin but I feel like a black dermatologist would be more likely to understand it and our sensitivities like not recommending cremes that lighten skin. It would also help to be able to find a second opinion."
+            "yes because it took me a while to find a black dermatologist. not that other kinds of dermatologist wouldn\u0019t know black skin but i feel like a black dermatologist would be more likely to understand it and our sensitivities like not recommending cremes that lighten skin. it would also help to be able to find a second opinion."
         ],
         "age": 33,
         "name": "Amanda"
@@ -256,10 +256,10 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I wouldn\u0019t use it."
+            "no because i wouldn\u0019t use it."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "it could be because at the first sign of problems I could take some pictures perhaps to see if things are getting worse or bettermeasurement."
+            "it could be because at the first sign of problems i could take some pictures perhaps to see if things are getting worse or bettermeasurement."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "heard of it but nobody in my circle"
@@ -293,40 +293,40 @@
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "No"
+            "no"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
-            "Yes"
+            "yes"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "no but I\u0019m familiar with the dangers of skin cancer and the importance of sun screen"
+            "no but i\u0019m familiar with the dangers of skin cancer and the importance of sun screen"
         ],
         "Do you think an educational app would be helpful?": [
-            "definitely, even if it\u0019s not a brand new fresh app but an app that people already use as long as the information is on there. People are wary of downloading new apps."
+            "definitely, even if it\u0019s not a brand new fresh app but an app that people already use as long as the information is on there. people are wary of downloading new apps."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, especially if I have preexisting concern. I\u0019d probably constantly be on it to try to maintain my health"
+            "yes, especially if i have preexisting concern. i\u0019d probably constantly be on it to try to maintain my health"
         ],
         "Does black crack?": [
             "na"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "No and no"
+            "no and no"
         ],
         "How do you currently find out about Melanoma?": [
-            "I just heard of it in this survey"
+            "i just heard of it in this survey"
         ],
         "How do you currently keep track of skin changes?": [
-            "I like to look at myself in the mirror to see if there are any changes.",
-            "my hands get dry, so I look to see if there are any changes",
-            "if I feel something is off, I check to see if there are any changes",
-            "I would ask someone of their opinion."
+            "i like to look at myself in the mirror to see if there are any changes.",
+            "my hands get dry, so i look to see if there are any changes",
+            "if i feel something is off, i check to see if there are any changes",
+            "i would ask someone of their opinion."
         ],
         "If so, what is there relationship?": [
-            "I both have friends and family that I can trust"
+            "i both have friends and family that i can trust"
         ],
         "Is it okay to follow up with you?": [
             "yes, anexisruiz@gmail.com"
@@ -334,14 +334,14 @@
         "What do you do if you have a skin issue?": [
             "look it up on the internet",
             "talk to my mother",
-            "if at school, I\u0019d go to the student health center"
+            "if at school, i\u0019d go to the student health center"
         ],
         "Where would you go to learn about Melanoma, skin cancer?": [
             "the internet,",
-            "if I had a concern I\u0019d want to speak to a professional because I\u0019d have an opportunity to ask questions"
+            "if i had a concern i\u0019d want to speak to a professional because i\u0019d have an opportunity to ask questions"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "Yes, especially if it\u0019s in the same app if I can track myself and then reach out to professionals if need be"
+            "yes, especially if it\u0019s in the same app if i can track myself and then reach out to professionals if need be"
         ],
         "age": 20,
         "name": "Anexis,"
@@ -366,20 +366,20 @@
             "it would be helpful"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it. I know it\u0019s the beginnings of skin cancer."
+            "i\u0019ve heard of it. i know it\u0019s the beginnings of skin cancer."
         ],
         "How do you currently find out about Melanoma?": [
             "mostly from my mom whose a nurse",
             "and commercials"
         ],
         "How do you currently keep track of skin changes?": [
-            "visually, looking at my skin every day. I have a routine day and night. I\u0019m more so focused on my face than the rest of my body, though."
+            "visually, looking at my skin every day. i have a routine day and night. i\u0019m more so focused on my face than the rest of my body, though."
         ],
         "If so, what is there relationship?": [
             "sister"
         ],
         "What do you do if you have a skin issue?": [
-            "I google it and ask my mom"
+            "i google it and ask my mom"
         ],
         "Where would you go to learn about Melanoma?": [
             "probably would go to my physician and ask for a referral to a dermatologist"
@@ -401,40 +401,40 @@
             "yes"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
-            "no, I have to go to the doctor"
+            "no, i have to go to the doctor"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
             "yes"
         ],
         "Do you think an educational app would be helpful?": [
-            "not for me, I\u0019d go to the NIH website"
+            "not for me, i\u0019d go to the nih website"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes that would be helpful. If I was diagnosed, of course. if I wasn\u0019t diagnosed I personally wouldn\u0019t have an interest unless to use for a family member."
+            "yes that would be helpful. if i was diagnosed, of course. if i wasn\u0019t diagnosed i personally wouldn\u0019t have an interest unless to use for a family member."
         ],
         "Have you ever heard of Melanoma? Have you ever known someone with it?": [
-            "yes. I was tested."
+            "yes. i was tested."
         ],
         "How do you currently find out about Melanoma?": [
-            "when I did research for my mom\u0019s type of cancer I went to the NIH website"
+            "when i did research for my mom\u0019s type of cancer i went to the nih website"
         ],
         "How do you currently keep track of skin changes?": [
-            "I watch it, and if I go to a physical I ask my pap to take a look. I have several moles all over the place."
+            "i watch it, and if i go to a physical i ask my pap to take a look. i have several moles all over the place."
         ],
         "How would you find this app?": [
-            "I\u0019d search through apple and galaxy, I\u0019d search \u001capp for cancer\u001d, \u001capp for melanoma\u001d, etc&"
+            "i\u0019d search through apple and galaxy, i\u0019d search \u001capp for cancer\u001d, \u001capp for melanoma\u001d, etc&"
         ],
         "If so, what is there relationship?": [
             "n/a"
         ],
         "Is it okay to follow up with you?": [
-            "yes, brendampowell@gmail.com (interested in possibly doing parttime project management for Mend.AI, 2025278830, Brenda Powell, add to email list, as well.)"
+            "yes, brendampowell@gmail.com (interested in possibly doing parttime project management for mend.ai, 2025278830, brenda powell, add to email list, as well.)"
         ],
         "What do you do if you have a skin issue?": [
-            "I go to the dermatologist"
+            "i go to the dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
-            "visit the websites of NIH, National Cancer Association"
+            "visit the websites of nih, national cancer association"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
             "yes"
@@ -459,16 +459,16 @@
             "yes"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, very, because I have a couple of moles on my leg that I watch. If I take pictures, I could always refer back to the old pictures."
+            "yes, very, because i have a couple of moles on my leg that i watch. if i take pictures, i could always refer back to the old pictures."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I used to work at a dermatology clinic, Professional Dermatology Care, Herndon, VA"
+            "yes, i used to work at a dermatology clinic, professional dermatology care, herndon, va"
         ],
         "How do you currently find out about Melanoma?": [
-            "I don\u0019t currently seek out information about it"
+            "i don\u0019t currently seek out information about it"
         ],
         "How do you currently keep track of skin changes?": [
-            "visually, myself, when I\u0019m showering or getting dressed"
+            "visually, myself, when i\u0019m showering or getting dressed"
         ],
         "How would you find this app?": [
             "maybe through an at the doctors office or the cdc website. or even schools."
@@ -480,13 +480,13 @@
             "yes, mrsbrigraham@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I go to my pap"
+            "i go to my pap"
         ],
         "Where would you go to learn about Melanoma?": [
             "probably the cdc website"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes. I\u0019m very selective about doctors because black patients have higher mortality rates because their health isn\u0019t taken as seriously."
+            "yes. i\u0019m very selective about doctors because black patients have higher mortality rates because their health isn\u0019t taken as seriously."
         ],
         "age": 27,
         "name": "Brianna"
@@ -505,25 +505,25 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "I don\u0019t think an app would be as beneficial as youtube. People search youtube much more fervently. If someone goes on youtube and types, \u001c#melanoma\u001d is much easier for people to do than to go to an app store and download an app, something they probably wouldn\u0019t do."
+            "i don\u0019t think an app would be as beneficial as youtube. people search youtube much more fervently. if someone goes on youtube and types, \u001c#melanoma\u001d is much easier for people to do than to go to an app store and download an app, something they probably wouldn\u0019t do."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no, because when you get into apps you get into privacy concerns. So when you\u0019re talking about physical changes people are less inclined to use an app."
+            "no, because when you get into apps you get into privacy concerns. so when you\u0019re talking about physical changes people are less inclined to use an app."
         ],
         "Have you ever heard of Melanoma?": [
-            "yes, only from commercials, nothing that I actively investigate"
+            "yes, only from commercials, nothing that i actively investigate"
         ],
         "Have you ever known someone with Melanoma?": [
             "no"
         ],
         "How do you currently find out about Melanoma?": [
-            "I\u0019d go to webmd or other respectable scholarly sources like the NIH or other peerreviewed articles."
+            "i\u0019d go to webmd or other respectable scholarly sources like the nih or other peerreviewed articles."
         ],
         "How do you currently keep track of skin changes?": [
-            "just visuals, watch, if you see something out of the ordinary then I track it for about a week or so. I\u0019ll then go to the dermatologist as a followup consultation to confirm it\u0019s gone or not."
+            "just visuals, watch, if you see something out of the ordinary then i track it for about a week or so. i\u0019ll then go to the dermatologist as a followup consultation to confirm it\u0019s gone or not."
         ],
         "How would you find this app?": [
-            "if I did search, then I\u0019d use the google play store"
+            "if i did search, then i\u0019d use the google play store"
         ],
         "If so, what is there relationship?": [
             "family and friends"
@@ -532,13 +532,13 @@
             "yes, cedric.harriott@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "usually I resort to home remedies"
+            "usually i resort to home remedies"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I got webmd, and another one that comes up from a basic google search. I think, healthline"
+            "i got webmd, and another one that comes up from a basic google search. i think, healthline"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no, because I\u0019m not an app person"
+            "no, because i\u0019m not an app person"
         ],
         "age": 31,
         "name": "Cedric"
@@ -548,7 +548,7 @@
             "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "yes I have a mole but I\u0019ve always had it"
+            "yes i have a mole but i\u0019ve always had it"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -560,19 +560,19 @@
             "not sure"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "if I thought I had a problem I guess it would be very helpful."
+            "if i thought i had a problem i guess it would be very helpful."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "vaguely heard of it but not sure if I knew anybody"
+            "vaguely heard of it but not sure if i knew anybody"
         ],
         "How do you currently find out about Melanoma?": [
             "not currently looking"
         ],
         "How do you currently keep track of skin changes?": [
-            "I don\u0019t"
+            "i don\u0019t"
         ],
         "How would you find this app?": [
-            "googled melanoma and if it popped up I\u0019d click on the website"
+            "googled melanoma and if it popped up i\u0019d click on the website"
         ],
         "If so, what is there relationship?": [
             "a friend"
@@ -587,7 +587,7 @@
             "google it"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes, if I thought I had an issue. It\u0019s something I\u0019d look for if I had an issue."
+            "yes, if i thought i had an issue. it\u0019s something i\u0019d look for if i had an issue."
         ],
         "age": 30,
         "name": "Charlie"
@@ -597,7 +597,7 @@
             "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "no. only a wart that got removed. It wasn\u0019t concerning."
+            "no. only a wart that got removed. it wasn\u0019t concerning."
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -636,7 +636,7 @@
             "the internet, google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes because I wouldn\u0019t have to do researchit would be convenient. I could figure out where to go."
+            "yes because i wouldn\u0019t have to do researchit would be convenient. i could figure out where to go."
         ],
         "age": 29,
         "name": "Clifford"
@@ -661,7 +661,7 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I just have heard of it."
+            "yes, i just have heard of it."
         ],
         "How do you currently find out about Melanoma?": [
             "google"
@@ -679,7 +679,7 @@
             "yes, dcbradley30@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I try to figure out a home remedy"
+            "i try to figure out a home remedy"
         ],
         "Where would you go to learn about Melanoma?": [
             "probably google"
@@ -692,10 +692,10 @@
     },
     {
         "Do you have a dermatologist?": [
-            "no but I\u0019ve seen one in the past"
+            "no but i\u0019ve seen one in the past"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "yes but I think it\u0019s a family thing."
+            "yes but i think it\u0019s a family thing."
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -704,13 +704,13 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because nothing has spurred me to be interested. Doesn\u0019t effect my life."
+            "no because nothing has spurred me to be interested. doesn\u0019t effect my life."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes but I\u0019d be unlikely to use it frequently. Feels like an extra step."
+            "yes but i\u0019d be unlikely to use it frequently. feels like an extra step."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "heard of it but I can\u0019t say I know what it is, or know anyone."
+            "heard of it but i can\u0019t say i know what it is, or know anyone."
         ],
         "How do you currently find out about Melanoma?": [
             "hearing about on tv or npr, word of mouth"
@@ -729,27 +729,27 @@
         ],
         "What do you do if you have a skin issue?": [
             "go to google, look up pictures and any evidence of others who has the same issue",
-            "if it\u0019s really bad I go to the dermatologist"
+            "if it\u0019s really bad i go to the dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "probably online, google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "I have a skin condition so I think it would help. On vacation, I can only spend one day out in the sun. I think an app would help me locate a dermatologist to help me with my specific issue."
+            "i have a skin condition so i think it would help. on vacation, i can only spend one day out in the sun. i think an app would help me locate a dermatologist to help me with my specific issue."
         ],
         "age": 35,
         "name": "Darrell"
     },
     {
         "Do you have a dermatologist?": [
-            "I\u0019d discuss with my primary care physician",
+            "i\u0019d discuss with my primary care physician",
             "yes",
             "heard of it but don\u0019t know anyone",
             "nih medpub, the internet mayo clinic website",
             "yes",
             "resources online like medpub and a google search",
-            "more discussions like this interview. Conversation and dialogue",
-            "selfcheck, activities of daily living (ADLs)",
+            "more discussions like this interview. conversation and dialogue",
+            "selfcheck, activities of daily living (adls)",
             "maybe journaling it, writing it down, take a note",
             "call my insurance company to see who they recommend",
             "through my insurance",
@@ -762,26 +762,26 @@
     },
     {
         "How do patients currently keep track of skin changes? For example, I know someone whose grandmother is part of a clinical trial that asks her to keep a written diary.": [
-            "Dr. Candrice has students who are itching to do research and write papers that is skin related. They want to be future dermatologists."
+            "dr. candrice has students who are itching to do research and write papers that is skin related. they want to be future dermatologists."
         ],
         "How do you acquire patients?": [
             "black patients are not familiar with that at all",
             "through the media",
             "many don\u0019t think it can happen to them",
-            "someone on tv like Jimmy Carter, or John McCain, etc&",
+            "someone on tv like jimmy carter, or john mccain, etc&",
             "usually not presented to them through their primary care physician",
             "usually someone who is knowledge is 1 degree away from someone who has had melanoma"
         ],
         "Is there a standard way for your patients to track progress?": [
-            "not a standard way but I take pictures of them in the office.",
-            "Sometimes they take photos of themselves in between visits.",
-            "there are also centers around the country that take photos of moles. I recommend this medical imaging for people who are molely and have a history of melanoma. This gives me high quality images. It allows me to monitor the abcde\u0019s.",
-            "I advise my patients to go to a plastic nevus clinic for actual people to look over the patient, manually. This along with the medical images helps greatly.",
-            "So yes, it can be on a basic level of me or my patient, all the way up to an advanced level where a center and professional can take pictures and review in person."
+            "not a standard way but i take pictures of them in the office.",
+            "sometimes they take photos of themselves in between visits.",
+            "there are also centers around the country that take photos of moles. i recommend this medical imaging for people who are molely and have a history of melanoma. this gives me high quality images. it allows me to monitor the abcde\u0019s.",
+            "i advise my patients to go to a plastic nevus clinic for actual people to look over the patient, manually. this along with the medical images helps greatly.",
+            "so yes, it can be on a basic level of me or my patient, all the way up to an advanced level where a center and professional can take pictures and review in person."
         ],
         "What kinds of educational material do you provide this demographic?": [
             "patient education sheet, or brochure about moles but it\u0019s hard because the brochures aren\u0019t focused on black skin",
-            "I\u0019ve created education materials focused specifically on black skin for primary care physicians"
+            "i\u0019ve created education materials focused specifically on black skin for primary care physicians"
         ],
         "Where is your practice located?": [
             "for people who have it, about <5% of patients have it or a history",
@@ -793,14 +793,14 @@
     },
     {
         "Are there any pain points in tracking your patient\u0019s skin changes?": [
-            "as long as the pictures are clear, and not fuzzy. If they can identify where the mole is because sometimes the photos are taken so close up that you can\u0019t tell where the mole is. It\u0019s better when the patients are state exactly where the mole is located on the body (upper left arm).",
-            "using technology, an easier way to consolidate photographs to electronic charts so it\u0019s insync and fluid. Right now it\u0019s a little clunky because the photographic system we have is on a different server and you have to flip flop between systems. If the system was more unified and fast it would make it easier to track these things.",
-            "I\u0019ve heard it loosely thrown around. It applies to insurance providers that are outside of Kaiser. Kaiser is allcentered around valuebased care.",
-            "The way the physicians practice, and the model, is not exactly the same as other insurance providers."
+            "as long as the pictures are clear, and not fuzzy. if they can identify where the mole is because sometimes the photos are taken so close up that you can\u0019t tell where the mole is. it\u0019s better when the patients are state exactly where the mole is located on the body (upper left arm).",
+            "using technology, an easier way to consolidate photographs to electronic charts so it\u0019s insync and fluid. right now it\u0019s a little clunky because the photographic system we have is on a different server and you have to flip flop between systems. if the system was more unified and fast it would make it easier to track these things.",
+            "i\u0019ve heard it loosely thrown around. it applies to insurance providers that are outside of kaiser. kaiser is allcentered around valuebased care.",
+            "the way the physicians practice, and the model, is not exactly the same as other insurance providers."
         ],
         "How do patients currently keep track of skin changes? For example, my grandmother is part of a clinical trial that asks her to keep a written diary.": [
-            "for patients that are atrisk, selfskin exam once a month when their fully undressed, say after the shower. becoming familiar with their skin, like learning the constellations in the sky. Pay attention to see if over time, they notice new spots.",
-            "some who are more savvy take pictures of moles and put little stickers with dates on them. They then accumulate a photo gallery.",
+            "for patients that are atrisk, selfskin exam once a month when their fully undressed, say after the shower. becoming familiar with their skin, like learning the constellations in the sky. pay attention to see if over time, they notice new spots.",
+            "some who are more savvy take pictures of moles and put little stickers with dates on them. they then accumulate a photo gallery.",
             "some take them with polaroids and bring in a box."
         ],
         "How do you acquire patients?": [
@@ -837,44 +837,44 @@
             "no not right now."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes because I feel like it\u0019s a no brainer. It\u0019s something you can take a picture of and then identify. It would be useful."
+            "yes because i feel like it\u0019s a no brainer. it\u0019s something you can take a picture of and then identify. it would be useful."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "heard of Melanoma but nobody I know."
+            "heard of melanoma but nobody i know."
         ],
         "How do you currently find out about Melanoma?": [
-            "I don\u0019t"
+            "i don\u0019t"
         ],
         "How do you currently keep track of skin changes?": [
-            "when I notice something different, but nothing regular"
+            "when i notice something different, but nothing regular"
         ],
         "How would you find this app?": [
             "through a skin care commercial on youtube",
-            "an ad on services that people need it the most use, like twitter because it\u0019s made for reading. Facebook. Maybe Instagram but those ads are easy to ignore.",
-            "audio ad on Pandora, music streaming apps, some games"
+            "an ad on services that people need it the most use, like twitter because it\u0019s made for reading. facebook. maybe instagram but those ads are easy to ignore.",
+            "audio ad on pandora, music streaming apps, some games"
         ],
         "If so, what is there relationship?": [
             "my mom"
         ],
         "Is it okay to follow up with you?": [
-            "yes, earlshine@gmail.com (email Earl the full research paper)."
+            "yes, earlshine@gmail.com (email earl the full research paper)."
         ],
         "What do you do if you have a skin issue?": [
-            "depends on what it is. If it\u0019s eczema I put on creme, if it\u0019s different I\u0019ll google it.",
-            "lastly I go to the doctor"
+            "depends on what it is. if it\u0019s eczema i put on creme, if it\u0019s different i\u0019ll google it.",
+            "lastly i go to the doctor"
         ],
         "Where would you go to learn about Melanoma?": [
-            "google it, then talk to a doctor, or someone I know"
+            "google it, then talk to a doctor, or someone i know"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes because it\u0019s like a greenback. People who would know your skin."
+            "yes because it\u0019s like a greenback. people who would know your skin."
         ],
         "age": 25,
         "name": "Earl"
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "no"
@@ -898,7 +898,7 @@
             "no"
         ],
         "How do you currently find out about Melanoma?": [
-            "I\u0019d look it up online because i have no idea"
+            "i\u0019d look it up online because i have no idea"
         ],
         "How do you currently keep track of skin changes?": [
             "just look at it, observe"
@@ -938,22 +938,22 @@
             "yes, some, sun exposures"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes for accessibility, ease of use. But if it\u0019s just another thing to add I might not do it. But if it communicated with apps I use, I would use it."
+            "yes for accessibility, ease of use. but if it\u0019s just another thing to add i might not do it. but if it communicated with apps i use, i would use it."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes especially at my age. I\u0019m moving into different territory."
+            "yes especially at my age. i\u0019m moving into different territory."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "heard of it. It\u0019s skin cancer. I think I met a classmate. White woman at 29 years old."
+            "heard of it. it\u0019s skin cancer. i think i met a classmate. white woman at 29 years old."
         ],
         "How do you currently find out about Melanoma?": [
             "someone would bring it up to me, word of mouth"
         ],
         "How do you currently keep track of skin changes?": [
-            "Primary Care Physician and Aesthetician. They assess my skin and provide recommendations. I\u0019m always buy skin care products and if it works for me I\u0019m an advocate."
+            "primary care physician and aesthetician. they assess my skin and provide recommendations. i\u0019m always buy skin care products and if it works for me i\u0019m an advocate."
         ],
         "How would you find this app?": [
-            "would have to pop up, or someone would have to tell me about it. I don\u0019t look for apps.s"
+            "would have to pop up, or someone would have to tell me about it. i don\u0019t look for apps.s"
         ],
         "If so, what is there relationship?": [
             "sister, friend, mom, children"
@@ -968,7 +968,7 @@
             "online, american cancer association or something like that"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes in terms of being a black woman there is some uniqueness to my skin that is important in a dermatologist to me. I would actively seek that out."
+            "yes in terms of being a black woman there is some uniqueness to my skin that is important in a dermatologist to me. i would actively seek that out."
         ],
         "age": 39,
         "name": "Eola"
@@ -976,18 +976,18 @@
     {
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "heard of it and have known some white people.",
-            "One white man, around 40",
-            "One white woman, around 50",
+            "one white man, around 40",
+            "one white woman, around 50",
             "google search, webmd",
             "if something of immediate concern, a dermatologist",
             "yes, somewhat",
-            "stuff I\u0019ve seen on the news, I\u0019ve heard the myth of black people can\u0019t get skin cancer and I\u0019ve learn that that is not true",
-            "If my doctor told me a little more about it that would be beneficial.",
-            "Never had a doctor broach the subject, had to learn it through the news media",
+            "stuff i\u0019ve seen on the news, i\u0019ve heard the myth of black people can\u0019t get skin cancer and i\u0019ve learn that that is not true",
+            "if my doctor told me a little more about it that would be beneficial.",
+            "never had a doctor broach the subject, had to learn it through the news media",
             "general observation",
             "something similar to what\u0019s been published to checking for lumps in the breast for breast cancer, to do it on a monthly basis.",
             "google it or ask a friend for a referral because that\u0019s my practice when it comes to doctors.",
-            "I\u0019d rather talk to a friend who is happy with their doctor because it gives me a reference and makes me comfortable and convinced that I\u0019ll have a good experience."
+            "i\u0019d rather talk to a friend who is happy with their doctor because it gives me a reference and makes me comfortable and convinced that i\u0019ll have a good experience."
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "my husband",
@@ -1016,16 +1016,16 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I\u0019ve known someone. A friend. Survivor. caught it early stage. White man."
+            "yes, i\u0019ve known someone. a friend. survivor. caught it early stage. white man."
         ],
         "How do you currently find out about Melanoma?": [
-            "I analyze my skin because and if I see something not right, I go to my dermatologist."
+            "i analyze my skin because and if i see something not right, i go to my dermatologist."
         ],
         "How do you currently keep track of skin changes?": [
-            "I do visible appearances especially if I develop a rash or see a change in my existing moles."
+            "i do visible appearances especially if i develop a rash or see a change in my existing moles."
         ],
         "How would you find this app?": [
-            "I would do a google search or ask my dermatologist for it or a friend"
+            "i would do a google search or ask my dermatologist for it or a friend"
         ],
         "If so, what is there relationship?": [
             "my mom, or a friend"
@@ -1034,10 +1034,10 @@
             "yes, mmlw45@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I go see my dermatologist"
+            "i go see my dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I would start with my dermatologist"
+            "i would start with my dermatologist"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
             "yes"
@@ -1065,16 +1065,16 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, and I know a few people who\u0019ve been diagnosed with. At least, 3. 1 white women and 2 black women. All survivors."
+            "yes, and i know a few people who\u0019ve been diagnosed with. at least, 3. 1 white women and 2 black women. all survivors."
         ],
         "How do you currently find out about Melanoma?": [
             "reading and research, doctors office brochures, tv"
         ],
         "How do you currently keep track of skin changes?": [
-            "I look at the marks on my body, examine them and work with my doctor. But I watch and read. If I see something out of the ordinary I\u0019d go to a dermatologist to learn more about it."
+            "i look at the marks on my body, examine them and work with my doctor. but i watch and read. if i see something out of the ordinary i\u0019d go to a dermatologist to learn more about it."
         ],
         "How would you find this app?": [
-            "google it, through other social media, word of mouth, marketing, on my phone app store, I do searches on my phone"
+            "google it, through other social media, word of mouth, marketing, on my phone app store, i do searches on my phone"
         ],
         "If so, what is there relationship?": [
             "my husband, daughter, gym buddies"
@@ -1083,14 +1083,14 @@
             "no"
         ],
         "What do you do if you have a skin issue?": [
-            "first I use home remedies",
-            "if I need it examined I go into the doctor"
+            "first i use home remedies",
+            "if i need it examined i go into the doctor"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I\u0019d go to webmd, other sites, the doctors office brochures, my pcp, or my dermatologist"
+            "i\u0019d go to webmd, other sites, the doctors office brochures, my pcp, or my dermatologist"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "I don\u0019t like a lot of cold stuff so personally I wouldn\u0019t just trust a list."
+            "i don\u0019t like a lot of cold stuff so personally i wouldn\u0019t just trust a list."
         ],
         "age": 50,
         "name": "Gloria"
@@ -1109,16 +1109,16 @@
             "yes, somewhat"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I don\u0019t have a need for it."
+            "no because i don\u0019t have a need for it."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes if I had issues but not before. I have enough apps."
+            "yes if i had issues but not before. i have enough apps."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I\u0019ve heard of it and know people. Most people I know are white."
+            "yes, i\u0019ve heard of it and know people. most people i know are white."
         ],
         "How do you currently find out about Melanoma?": [
-            "I don\u0019t find out about it. But if I did look it up, google or wikipedia."
+            "i don\u0019t find out about it. but if i did look it up, google or wikipedia."
         ],
         "How do you currently keep track of skin changes?": [
             "visual selfchecks"
@@ -1139,7 +1139,7 @@
             "google it"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no. because I\u0019d google it."
+            "no. because i\u0019d google it."
         ],
         "age": 72,
         "name": "Hattie"
@@ -1161,7 +1161,7 @@
             "yes because it would be readily available information to help with any of my concerns"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no, not me. I\u0019m not that concerned about those type of things, physically."
+            "no, not me. i\u0019m not that concerned about those type of things, physically."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "no"
@@ -1195,7 +1195,7 @@
     },
     {
         "Do you have a dermatologist?": [
-            "Yes"
+            "yes"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "yes"
@@ -1204,22 +1204,22 @@
             "yes"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "yes, even UV lighting is an issue, which is why I use sunscreen (even sesame oil is a natural sunscreen)"
+            "yes, even uv lighting is an issue, which is why i use sunscreen (even sesame oil is a natural sunscreen)"
         ],
         "Do you think an educational app would be helpful?": [
             "only if it included the ability to scan it and compare it to something, kids want an immediate fix, if you could scan your skin then ask the app should you go get this checked, then yes."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, absolutely because we\u0019re moving that way anyway. Meaning, having an android assess you, triage you before actually see a physician."
+            "yes, absolutely because we\u0019re moving that way anyway. meaning, having an android assess you, triage you before actually see a physician."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "Yes, I\u0019ve had several students who I\u0019ve encouraged to go get checked and they did have it."
+            "yes, i\u0019ve had several students who i\u0019ve encouraged to go get checked and they did have it."
         ],
         "How do you currently find out about Melanoma?": [
             "the internet"
         ],
         "How do you currently keep track of skin changes?": [
-            "I do a lot of self skin care. I have a mole that I want taken off but my dermatologist said no. They said they didn\u0019t want to stimulate cancer cells."
+            "i do a lot of self skin care. i have a mole that i want taken off but my dermatologist said no. they said they didn\u0019t want to stimulate cancer cells."
         ],
         "How would you find this app?": [
             "probably from my medical provider, my medical insurance gives me $75 to keep up with my mammograms"
@@ -1231,13 +1231,13 @@
             "yes, jpressey07@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I try to treat it naturally first, try not to put chemicals on my face. I live in sunscreen."
+            "i try to treat it naturally first, try not to put chemicals on my face. i live in sunscreen."
         ],
         "Where would you go to learn about Melanoma?": [
-            "today the internet but when I was teaching, peer reviews and anything that came from NIH or Mayo Clinic"
+            "today the internet but when i was teaching, peer reviews and anything that came from nih or mayo clinic"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes, and convenient to where you are. And to connect you with your health plan to let you know if it\u0019s in network or out of network."
+            "yes, and convenient to where you are. and to connect you with your health plan to let you know if it\u0019s in network or out of network."
         ],
         "age": 57,
         "name": "Jacqueline"
@@ -1247,28 +1247,28 @@
             "yes"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "yes, I suffer from eczema and sever eczema before"
+            "yes, i suffer from eczema and sever eczema before"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "not as much as I should but I know some"
+            "not as much as i should but i know some"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes, very much. I think it\u0019s important for people to be able to learn about it as fast as possible and treat it very quickly to catch it at an early stage.s"
+            "yes, very much. i think it\u0019s important for people to be able to learn about it as fast as possible and treat it very quickly to catch it at an early stage.s"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes, it would make it more convenient and accessible"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, it runs through my family. My great grandfather had it. And my grandfather has a less serious case of it. They are the white side of my family."
+            "yes, it runs through my family. my great grandfather had it. and my grandfather has a less serious case of it. they are the white side of my family."
         ],
         "How do you currently find out about Melanoma?": [
             "just through seeing other people go through it, experience"
         ],
         "How do you currently keep track of skin changes?": [
-            "I keep documentation (write it down and make sure the doctor has it) take photos to have a record"
+            "i keep documentation (write it down and make sure the doctor has it) take photos to have a record"
         ],
         "How would you find this app?": [
             "apple store search"
@@ -1280,7 +1280,7 @@
             "yes, mcmahanjai@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I contact my grandparents and go to the dermatologist"
+            "i contact my grandparents and go to the dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "to my grandfather who is currently diagnosed."
@@ -1305,10 +1305,10 @@
             "yes a little"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I\u0019d use the internet. before someone gets to an app they\u0019d go to google or webmd. Unless someone actually has the disease they\u0019ll never get to the app."
+            "no because i\u0019d use the internet. before someone gets to an app they\u0019d go to google or webmd. unless someone actually has the disease they\u0019ll never get to the app."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no. because I wouldn\u0019t take time to put them in there."
+            "no. because i wouldn\u0019t take time to put them in there."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "yes, my next door neighbor, caucasian man had it on his nose and neck, he survived."
@@ -1317,7 +1317,7 @@
             "go to the internet, webmd, google"
         ],
         "How do you currently keep track of skin changes?": [
-            "I shower being diabetic I watch my feet and skin very closely. Self body checks shower by shower basis."
+            "i shower being diabetic i watch my feet and skin very closely. self body checks shower by shower basis."
         ],
         "How would you find this app?": [
             "do a google search"
@@ -1335,7 +1335,7 @@
             "the internet"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no. because most people have insurances and hmos that make it costeffective. Most people don\u0019t have insurance that allow them to go anywhere."
+            "no. because most people have insurances and hmos that make it costeffective. most people don\u0019t have insurance that allow them to go anywhere."
         ],
         "age": 68,
         "name": "James"
@@ -1357,10 +1357,10 @@
             "yes"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, because that way I can have better control over what\u0019s going with my body, itself. just like I do with breast exams. Helps with more comfortable selfchecks."
+            "yes, because that way i can have better control over what\u0019s going with my body, itself. just like i do with breast exams. helps with more comfortable selfchecks."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, several coworkers. White coworkers, men and women. Mainly men."
+            "yes, several coworkers. white coworkers, men and women. mainly men."
         ],
         "How do you currently find out about Melanoma?": [
             "internet"
@@ -1369,7 +1369,7 @@
             "just through observation"
         ],
         "How would you find this app?": [
-            "like I find the others, through apple app store"
+            "like i find the others, through apple app store"
         ],
         "If so, what is there relationship?": [
             "my husband"
@@ -1384,7 +1384,7 @@
             "the internet, google it"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes because I had a hard time finding a dermatologist that serviced black people"
+            "yes because i had a hard time finding a dermatologist that serviced black people"
         ],
         "age": null,
         "name": null
@@ -1403,7 +1403,7 @@
             "yes"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes, because my son has a mole. If the app had a way to measure the mole, document the date and keep a record personal record of it would be valuable. And then to share with the dermatologist if necessary."
+            "yes, because my son has a mole. if the app had a way to measure the mole, document the date and keep a record personal record of it would be valuable. and then to share with the dermatologist if necessary."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes because sometimes other methods of documentation get lost, or maybe with healthcare there is changes and loss of insurance so something that is more tangible would be helpful."
@@ -1415,7 +1415,7 @@
             "internet, google, webmd"
         ],
         "How do you currently keep track of skin changes?": [
-            "not for me. For my son, I keep track just by observation."
+            "not for me. for my son, i keep track just by observation."
         ],
         "How would you find this app?": [
             "either through google or through apple app store"
@@ -1433,7 +1433,7 @@
             "the internet, google, webmd"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no because I have my HMO for that."
+            "no because i have my hmo for that."
         ],
         "age": 49,
         "name": "JoAnn"
@@ -1455,7 +1455,7 @@
             "yes"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "not for me. I just go to the doctor every six months"
+            "not for me. i just go to the doctor every six months"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "no"
@@ -1464,7 +1464,7 @@
             "google it or ask you, the surveyor"
         ],
         "How do you currently keep track of skin changes?": [
-            "I don\u0019t think I\u0019ve had any skin changes"
+            "i don\u0019t think i\u0019ve had any skin changes"
         ],
         "How would you find this app?": [
             "at a doctors office"
@@ -1476,7 +1476,7 @@
             "sure, 13glaze.jordan@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I\u0019d ask someone like friends and nurses in school. Then I\u0019d go to the doctor if it was something unusual."
+            "i\u0019d ask someone like friends and nurses in school. then i\u0019d go to the doctor if it was something unusual."
         ],
         "Where would you go to learn about Melanoma?": [
             "health books"
@@ -1504,19 +1504,19 @@
             "not something that focuses exclusively on melanoma but an educational app that focuses on black health would be, in general"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes because I can be notified of what something looks like so I can keep any eyeout for it."
+            "yes because i can be notified of what something looks like so i can keep any eyeout for it."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "heard of it from tv but don\u0019t know anyone"
         ],
         "How do you currently find out about Melanoma?": [
-            "I don\u0019t"
+            "i don\u0019t"
         ],
         "How do you currently keep track of skin changes?": [
-            "I examine myself"
+            "i examine myself"
         ],
         "How would you find this app?": [
-            "iTunes and google"
+            "itunes and google"
         ],
         "If so, what is there relationship?": [
             "girlfriend"
@@ -1525,7 +1525,7 @@
             "yes, bigspindr@yahoo.com"
         ],
         "What do you do if you have a skin issue?": [
-            "go to the ER"
+            "go to the er"
         ],
         "Where would you go to learn about Melanoma?": [
             "the internet, google, webmd"
@@ -1554,16 +1554,16 @@
             "yes, somewhat"
         ],
         "Do you think an educational app would be helpful for you, personally?": [
-            "no I\u0019d prefer a website because I don\u0019t like apps"
+            "no i\u0019d prefer a website because i don\u0019t like apps"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "it could be but if I were to scan my skin I\u0019d be concerned about how safe it is, and also my privacy."
+            "it could be but if i were to scan my skin i\u0019d be concerned about how safe it is, and also my privacy."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "yes, my formercoworker\u0019s mother, who was caucasian."
         ],
         "How do you currently find out about Melanoma?": [
-            "I don\u0019t"
+            "i don\u0019t"
         ],
         "How do you currently keep track of skin changes?": [
             "selfcheck"
@@ -1578,10 +1578,10 @@
             "yes, kandicetucker@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "self diagnose on internet, google the symptoms, if I can\u0019t resolve it, then I go to my primary care physician"
+            "self diagnose on internet, google the symptoms, if i can\u0019t resolve it, then i go to my primary care physician"
         ],
         "Where would you go to learn about Melanoma?": [
-            "NIH Pubmed website"
+            "nih pubmed website"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
             "na"
@@ -1603,22 +1603,22 @@
             "yes, somewhat"
         ],
         "Do you think an educational app would be helpful?": [
-            "no. I\u0019m not big on apps. Google searching, yes. But not an app."
+            "no. i\u0019m not big on apps. google searching, yes. but not an app."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no. If I have concern I will eyeball it. It would be better to have a primary care physician or someone in church to help check my moles. Maybe after I\u0019ve been made aware to keep an eye on it."
+            "no. if i have concern i will eyeball it. it would be better to have a primary care physician or someone in church to help check my moles. maybe after i\u0019ve been made aware to keep an eye on it."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it but don\u0019t know anyone personally. Does who I did know were white. None black."
+            "i\u0019ve heard of it but don\u0019t know anyone personally. does who i did know were white. none black."
         ],
         "How do you currently find out about Melanoma?": [
-            "magazines like Oprah, Vanity Fair, Essence"
+            "magazines like oprah, vanity fair, essence"
         ],
         "How do you currently keep track of skin changes?": [
             "visual, daily checks"
         ],
         "How would you find this app?": [
-            "I don\u0019t know. An app is another step."
+            "i don\u0019t know. an app is another step."
         ],
         "If so, what is there relationship?": [
             "my husband"
@@ -1627,13 +1627,13 @@
             "yes, krc2512@msn.com"
         ],
         "What do you do if you have a skin issue?": [
-            "finally went to see a dermatologist. I don\u0019t go very often, though."
+            "finally went to see a dermatologist. i don\u0019t go very often, though."
         ],
         "Where would you go to learn about Melanoma?": [
-            "I read a lot of women\u0019s magazines that have health sections."
+            "i read a lot of women\u0019s magazines that have health sections."
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes it\u0019d probably be more efficient but I lean on google searches"
+            "yes it\u0019d probably be more efficient but i lean on google searches"
         ],
         "age": 62,
         "name": "Karen"
@@ -1652,13 +1652,13 @@
             "somewhat"
         ],
         "Do you think an educational app would be helpful?": [
-            "no. I\u0019d look for a website. I have an app now about health and cooking that is just sitting there. I\u0019ve probably opened it once."
+            "no. i\u0019d look for a website. i have an app now about health and cooking that is just sitting there. i\u0019ve probably opened it once."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "unsure"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it. Haven\u0019t known anyone."
+            "i\u0019ve heard of it. haven\u0019t known anyone."
         ],
         "How do you currently find out about Melanoma?": [
             "google"
@@ -1701,19 +1701,19 @@
             "yes, somewhat"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes, specifically leading into the summertime. I\u0019d have a lot of questions because I have kids. Maybe it\u0019s linked with the weather for that day."
+            "yes, specifically leading into the summertime. i\u0019d have a lot of questions because i have kids. maybe it\u0019s linked with the weather for that day."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes that would be helpful. There seems to be a lot of apps helpful for people who track things. Like if you were on vacation you could take pictures throughout it to see if you notice any differences."
+            "yes that would be helpful. there seems to be a lot of apps helpful for people who track things. like if you were on vacation you could take pictures throughout it to see if you notice any differences."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I am aware of it but don\u0019t know anyone."
+            "i am aware of it but don\u0019t know anyone."
         ],
         "How do you currently find out about Melanoma?": [
-            "google it, and make sure it\u0019s a reputable source. I\u0019d also ask my wife."
+            "google it, and make sure it\u0019s a reputable source. i\u0019d also ask my wife."
         ],
         "How do you currently keep track of skin changes?": [
-            "I don\u0019t. If something comes up I\u0019ll notice it."
+            "i don\u0019t. if something comes up i\u0019ll notice it."
         ],
         "How would you find this app?": [
             "word of mouth, or through a targeted ad"
@@ -1729,10 +1729,10 @@
             "google it to see what can be done about it"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I\u0019d google it, then make sure that the source I find is reputable."
+            "i\u0019d google it, then make sure that the source i find is reputable."
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes, I\u0019ve heard that melanin gives me more protection but I\u0019ve also heard that that is wrong so it would be nice to have a dermatologist that focuses on black people."
+            "yes, i\u0019ve heard that melanin gives me more protection but i\u0019ve also heard that that is wrong so it would be nice to have a dermatologist that focuses on black people."
         ],
         "age": 31,
         "name": "Melvin"
@@ -1751,13 +1751,13 @@
             "yes"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes because it could make people more aware of the condition. Black people don\u0019t really know about it but when they get it it\u0019s more deadly to them than anybody else"
+            "yes because it could make people more aware of the condition. black people don\u0019t really know about it but when they get it it\u0019s more deadly to them than anybody else"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes maybe if you could save pictures of a lesion if you could compare it to years down the road."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I have heard of it and know many people, I\u0019m a physician"
+            "yes, i have heard of it and know many people, i\u0019m a physician"
         ],
         "How do you currently find out about Melanoma?": [
             "suspicion of an unusual skin lesion but definitely through a biopsy"
@@ -1766,7 +1766,7 @@
             "bathroom, after shower, selfcheck"
         ],
         "How would you find this app?": [
-            "I\u0019d google \u001cskin cancer and people of color"
+            "i\u0019d google \u001cskin cancer and people of color"
         ],
         "If so, what is there relationship?": [
             "spouse"
@@ -1806,7 +1806,7 @@
             "no."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it. don\u0019t know anyone."
+            "i\u0019ve heard of it. don\u0019t know anyone."
         ],
         "How do you currently find out about Melanoma?": [
             "google"
@@ -1815,7 +1815,7 @@
             "just look, checking myself out"
         ],
         "How would you find this app?": [
-            "google play store if I needed to"
+            "google play store if i needed to"
         ],
         "If so, what is there relationship?": [
             "mom"
@@ -1824,7 +1824,7 @@
             "no"
         ],
         "What do you do if you have a skin issue?": [
-            "I go to my primary care physician."
+            "i go to my primary care physician."
         ],
         "Where would you go to learn about Melanoma?": [
             "google"
@@ -1837,7 +1837,7 @@
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "yes"
@@ -1852,22 +1852,22 @@
             "yes"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no, I\u0019d prefer to use my eyes."
+            "no, i\u0019d prefer to use my eyes."
         ],
         "Have you ever heard of Melanoma?": [
-            "I think I have. I think it\u0019s a genetic thing. Sounds like Melatonin."
+            "i think i have. i think it\u0019s a genetic thing. sounds like melatonin."
         ],
         "Have you ever known someone with Melanoma?": [
             "no"
         ],
         "How do you currently find out about Melanoma?": [
-            "I\u0019m not searching for it. Depending on the type I\u0019d talk to a person that I know I could trust. A doctor, perhaps."
+            "i\u0019m not searching for it. depending on the type i\u0019d talk to a person that i know i could trust. a doctor, perhaps."
         ],
         "How do you currently keep track of skin changes?": [
             "by being healthy"
         ],
         "How would you find this app?": [
-            "through the app store, if I were looking for it. iPhone app store."
+            "through the app store, if i were looking for it. iphone app store."
         ],
         "If so, what is there relationship?": [
             "friend, family"
@@ -1876,13 +1876,13 @@
             "no"
         ],
         "What do you do if you have a skin issue?": [
-            "I figure out what I ate and try not to eat it again"
+            "i figure out what i ate and try not to eat it again"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I\u0019d go to the internet, google"
+            "i\u0019d go to the internet, google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no I wouldn\u0019t dare use it. Due to personal beliefs I wouldn\u0019t consult a dermatologist."
+            "no i wouldn\u0019t dare use it. due to personal beliefs i wouldn\u0019t consult a dermatologist."
         ],
         "age": 28,
         "name": "Nia"
@@ -1917,10 +1917,10 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I don\u0019t deal with apps. I\u0019m not on my phone like that."
+            "no because i don\u0019t deal with apps. i\u0019m not on my phone like that."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no because I don\u0019t\u0019 want to track my health on applications or the internet, I have an issue with big brother."
+            "no because i don\u0019t\u0019 want to track my health on applications or the internet, i have an issue with big brother."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "heard of it but don\u0019t know anyone"
@@ -1929,7 +1929,7 @@
             "the internet"
         ],
         "How do you currently keep track of skin changes?": [
-            "i take picture either with a phone or camera, and then I see my doctor"
+            "i take picture either with a phone or camera, and then i see my doctor"
         ],
         "How would you find this app?": [
             "wouldn\u0019t look for it."
@@ -1941,13 +1941,13 @@
             "no"
         ],
         "What do you do if you have a skin issue?": [
-            "I see my dermatologist"
+            "i see my dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "the internet, google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "not on an app but it would be helpful to have a resource somewhere. I don\u0019t use my phone to track my health."
+            "not on an app but it would be helpful to have a resource somewhere. i don\u0019t use my phone to track my health."
         ],
         "age": 37,
         "name": "Nona"
@@ -1963,7 +1963,7 @@
             "yes"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "yes I know something about it."
+            "yes i know something about it."
         ],
         "Do you think an educational app would be helpful?": [
             "sure"
@@ -1972,10 +1972,10 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it but don\u0019t know anyone who has had it."
+            "i\u0019ve heard of it but don\u0019t know anyone who has had it."
         ],
         "How do you currently find out about Melanoma?": [
-            "I\u0019d probably go to the american cancer institute website&"
+            "i\u0019d probably go to the american cancer institute website&"
         ],
         "How do you currently keep track of skin changes?": [
             "check myself in the mirror"
@@ -1990,7 +1990,7 @@
             "sure, eatonmartinez@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I just go to Kaiser Permanente and get a referral for a dermatologist"
+            "i just go to kaiser permanente and get a referral for a dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "maybe the cancer institute or skin cancer institute, in general. not really sure."
@@ -2003,7 +2003,7 @@
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
             "no"
@@ -2064,10 +2064,10 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes because I\u0019m not aware of Melanoma"
+            "yes because i\u0019m not aware of melanoma"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes I think it would be helpful to bring awareness of what to look for"
+            "yes i think it would be helpful to bring awareness of what to look for"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "no"
@@ -2076,7 +2076,7 @@
             "with my regular checkup with my primary physician or dermatologist if they notice something"
         ],
         "How do you currently keep track of skin changes?": [
-            "when I notice it but don\u0019t really keep track, don\u0019t pay much attention"
+            "when i notice it but don\u0019t really keep track, don\u0019t pay much attention"
         ],
         "How would you find this app?": [
             "online google search"
@@ -2088,7 +2088,7 @@
             "yes, rachelupton999@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I see a dermatologist"
+            "i see a dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
             "dermatologist"
@@ -2113,22 +2113,22 @@
             "yes somewhat. it\u0019s treatable if you catch it early."
         ],
         "Do you think an educational app would be helpful?": [
-            "if it gave me a reminder, or other details, maybe. I need more details on what it would do."
+            "if it gave me a reminder, or other details, maybe. i need more details on what it would do."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "maybe. If I had a pimple that\u0019s been there a while, I can use an app to pinpoint when I noticed it and then can show it to a dermatologist."
+            "maybe. if i had a pimple that\u0019s been there a while, i can use an app to pinpoint when i noticed it and then can show it to a dermatologist."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I\u0019ve heard of it. but don\u0019t know someone personally."
+            "yes, i\u0019ve heard of it. but don\u0019t know someone personally."
         ],
         "How do you currently find out about Melanoma?": [
             "through word of mouth"
         ],
         "How do you currently keep track of skin changes?": [
-            "self checks, only when I notice something."
+            "self checks, only when i notice something."
         ],
         "How would you find this app?": [
-            "iTunes app store"
+            "itunes app store"
         ],
         "If so, what is there relationship?": [
             "doctor"
@@ -2137,7 +2137,7 @@
             "yes, rtw0613@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "Take some over the counter medicine, like silica"
+            "take some over the counter medicine, like silica"
         ],
         "Where would you go to learn about Melanoma?": [
             "google"
@@ -2162,10 +2162,10 @@
             "yes"
         ],
         "Do you think an educational app would be helpful?": [
-            "I don\u0019t know. If it\u0019s that serious and people aren\u0019t aware of it then yes."
+            "i don\u0019t know. if it\u0019s that serious and people aren\u0019t aware of it then yes."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, I guess, to take pictures"
+            "yes, i guess, to take pictures"
         ],
         "Have you ever heard of Melanoma?": [
             "yes"
@@ -2177,10 +2177,10 @@
             "google"
         ],
         "How do you currently keep track of skin changes?": [
-            "I observe on a daily basis"
+            "i observe on a daily basis"
         ],
         "How would you find this app?": [
-            "I would probably go to google play"
+            "i would probably go to google play"
         ],
         "If so, what is there relationship?": [
             "my husband, mother, daughter"
@@ -2189,7 +2189,7 @@
             "yes, regina.murphy3302@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I do research and look for natural remedies"
+            "i do research and look for natural remedies"
         ],
         "Where would you go to learn about Melanoma?": [
             "do my own research, go to the health reports on google",
@@ -2221,16 +2221,16 @@
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "I\u0019ve heard of it, I\u0019m molely"
+            "i\u0019ve heard of it, i\u0019m molely"
         ],
         "How do you currently find out about Melanoma?": [
-            "I already have knowledge"
+            "i already have knowledge"
         ],
         "How do you currently keep track of skin changes?": [
-            "I look at my body"
+            "i look at my body"
         ],
         "How would you find this app?": [
-            "I\u0019d get it from my doctor"
+            "i\u0019d get it from my doctor"
         ],
         "If so, what is there relationship?": [
             "spouse, family member"
@@ -2242,7 +2242,7 @@
             "go to my dermatologist"
         ],
         "Where would you go to learn about Melanoma?": [
-            "through my normal reading, I\u0019m knowledgeable"
+            "through my normal reading, i\u0019m knowledgeable"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
             "yes"
@@ -2264,10 +2264,10 @@
             "not really"
         ],
         "Do you think an educational app would be helpful?": [
-            "no because it\u0019s not an issue of concern for me. If it was an issue, then yes."
+            "no because it\u0019s not an issue of concern for me. if it was an issue, then yes."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, it would be helpful. Everything is moving into the app space."
+            "yes, it would be helpful. everything is moving into the app space."
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
             "heard of it but don\u0019t know anyone"
@@ -2279,7 +2279,7 @@
             "visual selfchecks, personal observation"
         ],
         "How would you find this app?": [
-            "like an ad or something, I wouldn\u0019t go look for it."
+            "like an ad or something, i wouldn\u0019t go look for it."
         ],
         "If so, what is there relationship?": [
             "wife"
@@ -2294,17 +2294,17 @@
             "google"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no. because I\u0019d speak with my wife instead."
+            "no. because i\u0019d speak with my wife instead."
         ],
         "age": 60,
         "name": "Rodney"
     },
     {
         "Do you have a dermatologist?": [
-            "No"
+            "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "No"
+            "no"
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -2313,22 +2313,22 @@
             "no"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes, I think so"
+            "yes, i think so"
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "yes, now that I\u0019ve been told about Melanoma"
+            "yes, now that i\u0019ve been told about melanoma"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "Neither"
+            "neither"
         ],
         "How do you currently find out about Melanoma?": [
             "through this survey"
         ],
         "How do you currently keep track of skin changes?": [
-            "I don\u0019t."
+            "i don\u0019t."
         ],
         "How would you find it?": [
-            "I\u0019d probably find it through google or so"
+            "i\u0019d probably find it through google or so"
         ],
         "If so, what is there relationship?": [
             "my parents, my brothers"
@@ -2337,7 +2337,7 @@
             "yes, samiahajjaou92@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I don\u0019t do anything. I ignore it. Hope it goes away."
+            "i don\u0019t do anything. i ignore it. hope it goes away."
         ],
         "Where would you go to learn about Melanoma,, the most deadliest form of skin cancer?": [
             "probably a book or online"
@@ -2362,19 +2362,19 @@
             "a few"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes as long as it works in conjunction with some other kind of outreach. A lot of folks pick up the information via the community first, and then they may pick up the app."
+            "yes as long as it works in conjunction with some other kind of outreach. a lot of folks pick up the information via the community first, and then they may pick up the app."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I\u0019ve known a few white friends in Lincoln NE who developed Melanoma from sun bathing or suntanning booths, they believe."
+            "yes, i\u0019ve known a few white friends in lincoln ne who developed melanoma from sun bathing or suntanning booths, they believe."
         ],
         "How do you currently find out about Melanoma?": [
-            "an online search first, I usually go to google scholar, and then also my dermatologist (Dr. Donald Frisbee)"
+            "an online search first, i usually go to google scholar, and then also my dermatologist (dr. donald frisbee)"
         ],
         "How do you currently keep track of skin changes?": [
-            "with moles and skin tags, if I feel discomfort, or see noticeable changes in the growth or texture, or any other discoloration, I check it about once a month. I then call my dermatologist, and he\u0019ll ask me to take a photo and then he directs me from there."
+            "with moles and skin tags, if i feel discomfort, or see noticeable changes in the growth or texture, or any other discoloration, i check it about once a month. i then call my dermatologist, and he\u0019ll ask me to take a photo and then he directs me from there."
         ],
         "How would you find this app?": [
             "probably through a search engine, like google chrome."
@@ -2383,16 +2383,16 @@
             "my parent"
         ],
         "Is it okay to follow up with you?": [
-            "Call Dr. Frisbee and mention Lee Ross (Dr. Shantella Sherman\u0019s mom)"
+            "call dr. frisbee and mention lee ross (dr. shantella sherman\u0019s mom)"
         ],
         "What do you do if you have a skin issue?": [
-            "I call my dermatologist immediately"
+            "i call my dermatologist immediately"
         ],
         "Where would you go to learn about Melanoma?": [
-            "Probably my dermatologist"
+            "probably my dermatologist"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "maybe, but I would go word of mouth before I trust an app. If it\u0019s built from people who I would trust, my community, unlike, say yelp, which is people I don\u0019t know, I would be inclined to use it."
+            "maybe, but i would go word of mouth before i trust an app. if it\u0019s built from people who i would trust, my community, unlike, say yelp, which is people i don\u0019t know, i would be inclined to use it."
         ],
         "age": 48,
         "name": "Shantella"
@@ -2402,7 +2402,7 @@
             "no"
         ],
         "Do you have any moles or other skin conditions that have ever caused you concern?": [
-            "yes, I have hyper pigmentation. ingrown hair."
+            "yes, i have hyper pigmentation. ingrown hair."
         ],
         "Do you have anyone in your life who could help you do a skin check? Back of your head? Back?": [
             "yes"
@@ -2426,7 +2426,7 @@
             "self monitoring"
         ],
         "How would you find this app?": [
-            "through ads in the app store. I wouldn\u0019t go looking. I\u0019d need to see an ad."
+            "through ads in the app store. i wouldn\u0019t go looking. i\u0019d need to see an ad."
         ],
         "If so, what is there relationship?": [
             "husband, sister, mother"
@@ -2435,10 +2435,10 @@
             "yes, shekha.a@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I do some online research"
+            "i do some online research"
         ],
         "Where would you go to learn about Melanoma?": [
-            "I have doctor friends, I would ask them"
+            "i have doctor friends, i would ask them"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
             "yes, black dermatologists"
@@ -2457,19 +2457,19 @@
             "no"
         ],
         "Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?": [
-            "yes, that\u0019s why I don\u0019t go out a lot in the sun and I wear sunscreen."
+            "yes, that\u0019s why i don\u0019t go out a lot in the sun and i wear sunscreen."
         ],
         "Do you think an educational app would be helpful?": [
-            "no because I have other ways of learning about it."
+            "no because i have other ways of learning about it."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
-            "no, I don\u0019t use apps that much"
+            "no, i don\u0019t use apps that much"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, my brother got diagnosed. He was around 30."
+            "yes, my brother got diagnosed. he was around 30."
         ],
         "How do you currently find out about Melanoma?": [
-            "I go to webmd or go to my doctor, I google too."
+            "i go to webmd or go to my doctor, i google too."
         ],
         "How do you currently keep track of skin changes?": [
             "go to my doctor"
@@ -2484,13 +2484,13 @@
             "n/a"
         ],
         "What do you do if you have a skin issue?": [
-            "I go to the dermatologist and go to the regular doctor"
+            "i go to the dermatologist and go to the regular doctor"
         ],
         "Where would you go to learn about Melanoma?": [
             "doctor, webmd"
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "no because I go to my doctor"
+            "no because i go to my doctor"
         ],
         "age": -1,
         "name": "Tamra"
@@ -2509,22 +2509,22 @@
             "not really"
         ],
         "Do you think an educational app would be helpful?": [
-            "yes, I have a handful on my phone. I use apple health. I can ask my phone and it will give me a listing."
+            "yes, i have a handful on my phone. i use apple health. i can ask my phone and it will give me a listing."
         ],
         "Do you think it would be beneficial for you to use an app or imaging device to track changes?": [
             "yes"
         ],
         "Have you ever known someone with, or heard of Melanoma?": [
-            "yes, I just know of someone who had issue with it. They survived. A black man.s"
+            "yes, i just know of someone who had issue with it. they survived. a black man.s"
         ],
         "How do you currently find out about Melanoma?": [
-            "I go to my doctor"
+            "i go to my doctor"
         ],
         "How do you currently keep track of skin changes?": [
-            "I don\u0019t keep track. If I see something I go to the doctor."
+            "i don\u0019t keep track. if i see something i go to the doctor."
         ],
         "How would you find this app?": [
-            "through Johns Hopkins Hospital, I found that I have a condition that is considered a leukemia. Which is how I ended up with all this information. They monitor me every 3 months."
+            "through johns hopkins hospital, i found that i have a condition that is considered a leukemia. which is how i ended up with all this information. they monitor me every 3 months."
         ],
         "If so, what is there relationship?": [
             "my wife"
@@ -2533,13 +2533,13 @@
             "yes, thomascharlese@gmail.com"
         ],
         "What do you do if you have a skin issue?": [
-            "I go to my regular doctor who would probably send me to a skin doctor"
+            "i go to my regular doctor who would probably send me to a skin doctor"
         ],
         "Where would you go to learn about Melanoma?": [
             "internet, or my family doctor."
         ],
         "Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?": [
-            "yes, I currently use \u001cmyChart\u001d out of Johns Hopkins Hospital"
+            "yes, i currently use \u001cmychart\u001d out of johns hopkins hospital"
         ],
         "age": 74,
         "name": "Thomas"

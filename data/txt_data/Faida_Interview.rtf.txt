@@ -1,0 +1,80 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Faida 41### invalid font number 1
+
+### invalid font number 2
+Do you have a dermatologist?### invalid font number 1
+
+- no
+### invalid font number 2
+What do you do if you have a skin issue?### invalid font number 1
+
+- go to my regular doctor
+### invalid font number 2
+Do you have any moles or other skin conditions that have ever caused you concern?
+- not from a cancer perspective### invalid font number 1
+
+
+### invalid font number 2
+Have you ever known someone with, or heard of Melanoma?### invalid font number 1
+
+- heard of it and have known some white people.
+- One white man, around 40
+- One white woman, around 50
+
+### invalid font number 2
+Where would you go to learn about Melanoma?### invalid font number 1
+
+- google search, webmd
+- if something of immediate concern, a dermatologist
+
+### invalid font number 2
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?### invalid font number 1
+
+- yes, somewhat
+
+### invalid font number 2
+How do you currently find out about Melanoma?### invalid font number 1
+
+- stuff Ive seen on the news, Ive heard the myth of black people cant get skin cancer and Ive learn that that is not true
+### invalid font number 2
+What do you think would be helpful for you to become more aware?### invalid font number 1
+
+- If my doctor told me a little more about it that would be beneficial.
+- Never had a doctor broach the subject, had to learn it through the news media
+### invalid font number 2
+How do you currently keep track of skin changes?### invalid font number 1
+
+- general observation
+### invalid font number 2
+What do you think would be beneficial for you to track changes?### invalid font number 1
+
+- something similar to whats been published to checking for lumps in the breast for breast cancer, to do it on a monthly basis.
+
+### invalid font number 2
+How do you currently locate a dermatologist?### invalid font number 1
+
+- google it or ask a friend for a referral because thats my practice when it comes to doctors.
+
+### invalid font number 2
+How would you prefer to locate a dermatologist?### invalid font number 1
+
+- Id rather talk to a friend who is happy with their doctor because it gives me a reference and makes me comfortable and convinced that Ill have a good experience.
+
+### invalid font number 2
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes### invalid font number 1
+
+
+### invalid font number 2
+If so, what is there relationship?### invalid font number 1
+
+- my husband
+
+### invalid font number 2
+Is it okay to follow up with you?### invalid font number 1
+
+- yes, faidamitchell@yahoo.com

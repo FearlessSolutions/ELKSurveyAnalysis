@@ -11,7 +11,7 @@ services:
     volumes:
       - ../app/:/app/
       - ../data:/data
-      - ./results:/results
+      - ../results:/results
     entrypoint:
       - /app/etl/rtf_to_txt.sh
     networks:

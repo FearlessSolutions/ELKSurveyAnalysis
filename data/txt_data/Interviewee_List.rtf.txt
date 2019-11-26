@@ -1,0 +1,73 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+# Name
+
+ASALH Luncheon Event Goer
+50. Anexis
+49. Allison
+48. Aniyah
+47. Samia
+46. Alpha
+45. Jacqueline
+44. Elene
+43. Regina
+42. Omar
+41. Rick
+40. Al
+39. Nia
+38. Gloria
+37. Tamra
+36. Cedric
+35. Brenda
+34. Glenn
+33. Shantella
+32. Mimi
+31. Jordan
+30. Jade
+29. Daniel
+28. Shekha
+27. James
+26. Thomas
+25. Jeanice
+24. Clifford
+23. Ife
+22. Lopez
+21. Nona
+20. Juice
+19. Eola
+18. Raymond
+17. Karen
+16. Michael
+15. Hattie
+14. Rodney
+
+3rd Saturdays Event Goer
+13. Brianna
+12. Melvin
+11. Charlie
+10. Earl
+09. Darrell
+08. Rachel
+07. JoAnn
+06. Amanda
+05. Andre
+04.
+03.
+02.
+01.
+
+
+
+10. Dionny
+09. Faida
+08. Oshan
+07. Derek
+06. Nick
+05. Jalila
+04. 
+03.
+02.
+01.

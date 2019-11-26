@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Shekha 32
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- I do some online research
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes, I have hyper pigmentation. in-grown hair.
+
+Have you ever known someone with, or heard of Melanoma?
+- heard of it but havent known anyone with it.
+
+Where would you go to learn about Melanoma?
+- I have doctor friends, I would ask them
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes
+
+How do you currently find out about Melanoma?
+- the internet
+
+Do you think an educational app would be helpful?
+- yes
+
+How do you currently keep track of skin changes?
+- self monitoring
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes, black dermatologists
+
+How would you find this app?
+- through ads in the app store. I wouldnt go looking. Id need to see an ad.
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- husband, sister, mother
+
+Is it okay to follow up with you?
+- yes, shekha.a@gmail.com

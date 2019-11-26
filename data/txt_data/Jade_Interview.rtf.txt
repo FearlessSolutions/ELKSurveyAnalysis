@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Jade 19
+### invalid font number 1
+
+Do you have a dermatologist?
+- yes
+
+What do you do if you have a skin issue?
+- I contact my grandparents and go to the dermatologist
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes, I suffer from eczema and sever eczema before
+
+Have you ever known someone with, or heard of Melanoma?
+- yes, it runs through my family. My great grandfather had it. And my grandfather has a less serious case of it. They are the white side of my family.
+
+Where would you go to learn about Melanoma?
+- to my grandfather who is currently diagnosed.
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- not as much as I should but I know some
+
+How do you currently find out about Melanoma?
+- just through seeing other people go through it, experience
+
+Do you think an educational app would be helpful?
+- yes, very much. I think its important for people to be able to learn about it as fast as possible and treat it very quickly to catch it at an early stage.s
+
+How do you currently keep track of skin changes?
+- I keep documentation (write it down and make sure the doctor has it) take photos to have a record
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes, it would make it more convenient and accessible
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes, definitely
+
+How would you find this app?
+- apple store search
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my grandmother, and mother
+
+Is it okay to follow up with you?
+- yes, mcmahanjai@gmail.com

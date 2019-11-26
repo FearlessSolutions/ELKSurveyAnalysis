@@ -13,7 +13,7 @@ services:
     volumes:
       - ../app/:/app/
       - ../data:/data
-      - ./results:/results
+      - ../results:/results
     entrypoint:
       ["python3", "/app/ingest/ingest_data.py"]
     networks:

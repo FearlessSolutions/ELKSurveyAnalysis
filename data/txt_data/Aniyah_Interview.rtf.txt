@@ -1,0 +1,49 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Aniyah, 19
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- I google it and ask my mom
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- no
+
+Have you ever known someone with, or heard of Melanoma?
+- Ive heard of it. I know its the beginnings of skin cancer.
+
+Where would you go to learn about Melanoma?
+- probably would go to my physician and ask for a referral to a dermatologist
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes
+
+How do you currently find out about Melanoma?
+- mostly from my mom whose a nurse
+- and commercials
+
+Do you think an educational app would be helpful?
+- not necessarily a whole app but my tabs or programs in already existing apps
+
+How do you currently keep track of skin changes?
+- visually, looking at my skin every day. I have a routine day and night. Im more so focused on my face than the rest of my body, though.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- it would be helpful
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- kind of but as long as theyre wholistic
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- sister
+
+Would it be okay to follow up with you?
+- yes, aniyahlewis@outlook.com

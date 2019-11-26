@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Brenda 60
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- I go to the dermatologist
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever heard of Melanoma? Have you ever known someone with it?
+- yes. I was tested.
+
+Where would you go to learn about Melanoma?
+- visit the websites of NIH, National Cancer Association
+
+Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- yes
+
+How do you currently find out about Melanoma?
+- when I did research for my moms type of cancer I went to the NIH website
+
+Do you think an educational app would be helpful?
+- not for me, Id go to the NIH website
+
+How do you currently keep track of skin changes?
+- I watch it, and if I go to a physical I ask my pap to take a look. I have several moles all over the place.
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes that would be helpful. If I was diagnosed, of course. if I wasnt diagnosed I personally wouldnt have an interest unless to use for a family member.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes
+
+How would you find this app?
+- Id search through apple and galaxy, Id search app for cancer, app for melanoma, etc&
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- no, I have to go to the doctor
+
+If so, what is there relationship?
+- n/a
+
+Is it okay to follow up with you?
+- yes, brendampowell@gmail.com (interested in possibly doing part-time project management for Mend.AI, 202-527-8830, Brenda Powell, add to email list, as well.)

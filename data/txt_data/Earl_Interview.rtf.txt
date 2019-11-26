@@ -1,0 +1,55 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
+Earl 25
+### invalid font number 1
+
+Do you have a dermatologist?
+- no
+
+What do you do if you have a skin issue?
+- depends on what it is. If its eczema I put on creme, if its different Ill google it.
+- lastly I go to the doctor
+
+Do you have any moles or other skin conditions that have ever caused you concern?
+- yes
+
+Have you ever known someone with, or heard of Melanoma?
+- heard of Melanoma but nobody I know.
+
+Where would you go to learn about Melanoma?
+- google it, then talk to a doctor, or someone I know
+
+Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
+- no
+
+How do you currently find out about Melanoma?
+- I dont
+
+Do you think an educational app would be helpful?
+- no not right now.
+
+How do you currently keep track of skin changes?
+- when I notice something different, but nothing regular
+
+Do you think it would be beneficial for you to use an app or imaging device to track changes?
+- yes because I feel like its a no brainer. Its something you can take a picture of and then identify. It would be useful.
+
+Would it be helpful to you to have an app that provided you with a list of dermatologists that focused on your type of skin?
+- yes because its like a greenback. People who would know your skin.
+
+How would you find this app?
+- through a skin care commercial on youtube
+- an ad on services that people need it the most use, like twitter because its made for reading. Facebook. Maybe Instagram but those ads are easy to ignore.
+- audio ad on Pandora, music streaming apps, some games
+
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
+- yes
+
+If so, what is there relationship?
+- my mom
+
+Is it okay to follow up with you?
+- yes, earlshine@gmail.com (email Earl the full research paper).
