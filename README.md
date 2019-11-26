@@ -42,7 +42,13 @@ edit: ELKSurveyAnalysis/docker-elk/elasticsearch/config/elasticsearch.yaml
 xpack.license.self_generated.type: basic
 ```
 
-##
+## Clean the volume
+```
+sudo docker volume rm docker-compose_elasticsearch
+# this will fail if a container relies on it
+sudo docker rm <container hash>
+sudo docker volume rm docker-compose_elasticsearch
+```
 
 start the containers:
 ```sh

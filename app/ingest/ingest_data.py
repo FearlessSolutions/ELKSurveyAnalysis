@@ -8,8 +8,7 @@ from requests.auth import HTTPBasicAuth
 
 def get_mapping():
     r = requests.post("{0}/survey_data2/_mapping".format(os.environ["ES_URL"],
-                        auth=HTTPBasicAuth('elastic', 'changeme'))
-    
+                        auth=HTTPBasicAuth('elastic', 'changeme')))
     print(r.content)
 
 def wait_for_system(system_name, url):
