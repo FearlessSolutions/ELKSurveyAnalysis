@@ -1,4 +1,8 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
 
+-----------------
 Anexis, 20, from NYC, goes to Howard
 
 Do you have a dermatologist?
@@ -18,6 +22,8 @@ Have you ever known someone with, or heard of Melanoma?
 Where would you go to learn about Melanoma, skin cancer?
 - the internet,
 - if I had a concern Id want to speak to a professional because Id have an opportunity to ask questions
+
+Does black crack?
 
 Do you know about the risk factors of Melanoma, such as tanning, or over exposure to the sun?
 - no but Im familiar with the dangers of skin cancer and the importance of sun screen

@@ -1,7 +1,25 @@
 version: "3.7"
 services:
 
-  app:
+  ingest:
+    build:
+      context: ../
+      dockerfile: ./docker/DockerFile 
+    ports:
+      - "4335:4335"
+    environment: 
+      - ES_URL=http://elasticsearch:9200
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ../app/:/app/
+      - ../data:/data
+      - ../results:/results
+    entrypoint:
+      ["python3", "/app/ingest/ingest_data.py"]
+    networks:
+      - elk
+
+  visualization:
     build:
       context: ../
       dockerfile: ./docker/DockerFile 

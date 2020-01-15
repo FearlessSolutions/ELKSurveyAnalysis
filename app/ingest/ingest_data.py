@@ -53,7 +53,10 @@ def process_survey_data():
             index +=1
             print("processing article {0} of {1}".format(index, len(survey_data)))
    
-            send_to_elastic("survey_data2", "record", record)
+            #send_to_elastic("survey_data2", "record", record)
+
+def process_survey_data_local():
+    print("here")
 
 def dep_process_census_data():
     print("processing census data")
@@ -75,6 +78,8 @@ def dep_process_census_data():
             send_to_elastic("census_data", "record", record)
 
 if __name__ == "__main__":
-    wait_for_system("elastic", os.environ["ES_URL"])
-    process_survey_data()
+    # wait_for_system("elastic", os.environ["ES_URL"])
+
+    process_survey_data_local()
+    # process_survey_data()
     # get_mapping()

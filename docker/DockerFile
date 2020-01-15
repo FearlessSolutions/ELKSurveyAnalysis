@@ -12,6 +12,7 @@ RUN apt-get update \
 
 RUN mkdir /app /data /results
 
+
 # We copy just the requirements.txt first to leverage Docker cache
 COPY app/requirements.txt /app/requirements.txt 
 

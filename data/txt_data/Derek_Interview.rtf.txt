@@ -1,45 +1,80 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 0 fonts total
+### invalid font number 0
+
+-----------------
 Derek 48
-Do you have a dermatologist?
+### invalid font number 1
+Do you have a dermatologist?### invalid font number 0
+
 - no
 
-What do you do if you have a skin issue?
+### invalid font number 1
+What do you do if you have a skin issue?### invalid font number 0
+
 - my wife works for a hospital so her colleagues answer questions for me
+### invalid font number 1
+Do you have any moles or other skin conditions that have ever caused you concern?### invalid font number 0
 
-Do you have any moles or other skin conditions that have ever caused you concern?
+
 - no
 
-Have you ever known someone with, or heard of Melanoma?
+### invalid font number 1
+Have you ever known someone with, or heard of Melanoma?### invalid font number 0
+
 - I know about it but dont know anyone personally
 
-Where would you go to learn about Melanoma?
+### invalid font number 1
+Where would you go to learn about Melanoma?### invalid font number 0
+
 - some of my medical professional friends, and webmd or mayo clinic
 
+### invalid font number 1
 Do you know about any risk factors of Melanoma, such as tanning, or over exposure to the sun?
-- no
+- no### invalid font number 0
 
-How do you currently find out about Melanoma?
+
+### invalid font number 1
+How do you currently find out about Melanoma?### invalid font number 0
+
 - through the internet, webmd and medical friends
 
-What do you think would be helpful for you to become more aware?
+### invalid font number 1
+What do you think would be helpful for you to become more aware?### invalid font number 0
+
 - it would probably take someone close to me getting it
 
-How do you currently keep track of skin changes?
+### invalid font number 1
+How do you currently keep track of skin changes?### invalid font number 0
+
 - mirror, and noticing things
 
-What do you think would be beneficial for you to track changes?
+### invalid font number 1
+What do you think would be beneficial for you to track changes?### invalid font number 0
+
 - not sure
 
-How do you currently locate a dermatologist?
+### invalid font number 1
+How do you currently locate a dermatologist?### invalid font number 0
+
 - my wife
 
-How would you prefer to locate a dermatologist?
+### invalid font number 1
+How would you prefer to locate a dermatologist?### invalid font number 0
+
 - my wife because shes a professional in the field
 
-Do you have anyone in your life who could help you do a skin check? Back of your head? Back?
-- yes
+### invalid font number 1
+Do you have anyone in your life who could help you do a skin check? Back of your head? Back?### invalid font number 0
 
-If so, what is there relationship?
+- yes
+### invalid font number 1
+
+If so, what is there relationship?### invalid font number 0
+
 - my wife
 
-Is it okay to follow up with you?
-- yes, dlwimes@aol.com (email Derek information about Melanoma)
+### invalid font number 1
+Is it okay to follow up with you?### invalid font number 0
+
+yes, dlwimes@aol.com (email Derek information about Melanoma)
