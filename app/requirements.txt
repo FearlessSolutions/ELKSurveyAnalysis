@@ -6,3 +6,4 @@ matplotlib
 wordcloud
 gensim==3.8.1
 pprint
+camelot-py[cv]

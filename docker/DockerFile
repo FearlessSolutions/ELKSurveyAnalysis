@@ -1,10 +1,11 @@
 FROM ubuntu:18.04
-
 # MAINTANER Your Name "mbenson@fearless.tech"
 
+ARG DEBIAN_FRONTEND=noninteractive
 
+# camelot reqs: python3-tk ghostscript
 RUN apt-get update \
-  && apt-get install -y python3-pip python3-dev gcc unrtf \
+  && apt-get install -y python3-pip python3-dev gcc unrtf python3-tk ghostscript libsm6 \
   && cd /usr/local/bin \
   && ln -s /usr/bin/python3 python \
   && pip3 install --upgrade pip
@@ -21,6 +22,8 @@ WORKDIR /app
 RUN pip3 install -r requirements.txt
 
 COPY app/ /app
+
+RUN python3 -m spacy download en_core_web_sm
 
 ENTRYPOINT [ "python3" ]
 CMD ["etl/parse_raw_interviews.py"]
